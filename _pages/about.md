@@ -61,7 +61,7 @@ _11th International Conference on Bioinformatics and Computational Biology (ICBC
 _Biology_. [[link]](https://www.mdpi.com/2079-7737/11/10/1454/htm)
 - **<u>Zhe Liu</u>**, Weihao Pan, Xuyang Zhen, et al. Will AlphaFold2 be Helpful in Improving the Accuracy of Single-sequence PPI Site Prediction?  
 _10th International Conference on Bioinformatics and Computational Biology (ICBCB 2022)_. [[link]](https://ieeexplore.ieee.org/document/9802490)
-- Weihao Pan#, **<u>Zhe Liu#</u>**, Weichen Song, et al. An Integrative Segmentation Framework for Cell Nucleus of Fluorescence Microscopy.
+- Weihao Pan#, **<u>Zhe Liu#</u>**, Weichen Song, et al. An Integrative Segmentation Framework for Cell Nucleus of Fluorescence Microscopy.  
 _Genes_. [[link]](https://www.mdpi.com/2073-4425/13/3/431/htm)
 
 ## 2021
@@ -87,7 +87,7 @@ _Frontiers in Genetics_. [[link]](https://www.frontiersin.org/journals/genetics/
 - 2023.07 CCF Bioinformatics "New Future" Youth Scholars Forum, Jilin Province, Academic Report
 - 2023.10 The 12th Chinese Conference on Bioinformatics & Systems Biology (CCBSB 2023), Poster, Third Place
 - 2024.11 5th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB 2024), Poster
-- 2024.12 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024), Regular Paper(*1), Short Paper(*1), Video Presentation
+- 2024.12 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024), Regular Paper(1), Short Paper(1), Video Presentation
 
 <!-- 
 # 🔥 News
