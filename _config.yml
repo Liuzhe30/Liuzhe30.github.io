@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Junjie LI"
-description              : "A Ph.D candidate at The Hong Kong Polytechnic University"
-repository               : "mrjunjieli/mrjunjieli.github.io"
+title                    : "Zhe Liu"
+description              : "Ph.D candidate at Shanghai Jiao Tong University"
+repository               : "Liuzhe30/Liuzhe30.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Junjie LI"
-  avatar           : "images/Junjie.jpg"
-  bio              : "Fake it until you make it"
-  location         : "Hong Kong SAR, China"
+  name             : "Zhe Liu"
+  avatar           : "images/momo.png"
+  bio              : #"Stay Hungry, Stay Foolish"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=CInvjq8AAAAJ"
-  email            : "mrjunjieli@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=4gCPTx8AAAAJ&hl=en"
+  email            : "liuzlm1030@sjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : mrjunjieli # e.g., "github username"
+  github           : Liuzhe30 # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : junjie-li-4b0a17303 # e.g., "linkedin username"
+  linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
