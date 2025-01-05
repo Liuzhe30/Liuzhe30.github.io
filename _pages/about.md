@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a Ph.D candidate majoring in Biomedical Engineering at Shanghai Jiao Tong University (SJTU). 
-My research interests focus on developing artificial intelligence algorithms to address challenges in the fields of medicine and biology (AI for science). This includes mutation effect prediction, protein structure prediction, and the application of large models in mental health disorders. <a href='https://scholar.google.com/citations?user=4gCPTx8AAAAJ&hl=enJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fmrjunjieli%2Fmrjunjieli.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
+My research interests focus on developing artificial intelligence algorithms to address challenges in the fields of medicine and biology (AI for science). This includes mutation effect prediction, protein structure prediction, and the application of machine learning in mental health disorders. <a href='https://scholar.google.com/citations?user=4gCPTx8AAAAJ&hl=enJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLiuzhe30%2Liuzhe30.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
 
 
 # 📖 Educations
