@@ -6,14 +6,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Internship Experience"
-    url: "/#-internship-experience"
-
   - title: "Publications"
     url: "/#-publications"
-
-  - title: "Open Source Toolkit"
-    url: "/#-open-source-toolkit"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -21,7 +15,5 @@ main:
   - title: "Acdemica activities"
     url: "/#-academic-activities"
   
-  - title: "Blog"
-    urt: "/#-blog"
 
 
