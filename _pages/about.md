@@ -89,6 +89,12 @@ _Frontiers in Genetics_. [[link]](https://www.frontiersin.org/journals/genetics/
 - 2024.11 5th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB 2024), Poster
 - 2024.12 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024), Regular Paper(1), Short Paper(1), Video Presentation
 
+# 👔 Teaching
+## Shanghai Jiao Tong University
+- Spring 2021 Fundamentals of Biomedical Statistics **<u>Teaching Assistant</u>**
+- Spring 2022 Fundamentals of Biomedical Statistics **<u>Teaching Assistant</u>**
+
+
 <!-- 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
