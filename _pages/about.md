@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a Ph.D candidate majoring in Biomedical Engineering at Shanghai Jiao Tong University (SJTU). 
-My research interests focus on developing artificial intelligence algorithms to address challenges in the fields of medicine and biology (AI for science). This includes mutation effect prediction, protein structure prediction, and the application of machine learning in mental health disorders. <a href='https://scholar.google.com/citations?user=4gCPTx8AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLiuzhe30%2FLiuzhe30.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
+My research interests focus on developing artificial intelligence algorithms to address challenges in the fields of medicine and biology (AI for science). This includes mutation effect prediction, protein structure prediction, and the application of machine learning in mental health disorders. 
 
 
 # 📖 Educations
@@ -30,30 +30,27 @@ My research interests focus on developing artificial intelligence algorithms to 
 
 ## 2024 
 - **<u>Zhe Liu</u>**, Yihang Bao, Wenhao Li, et al. Benchmarking the coding strategies of non-coding mutations on sequence-based downstream tasks with machine learning. _BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v1) 
-- **<u>Zhe Liu</u>**, Yihang Bao, An Gu, et al.Predicting the regulatory impacts of non-coding variants on gene expression through epigenomic integration across tissues and single-cell landscapes. _BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.21.568175v1.abstract)
+- **<u>Zhe Liu</u>**, Yihang Bao, An Gu, et al. Predicting the regulatory impacts of non-coding variants on gene expression through epigenomic integration across tissues and single-cell landscapes. _BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.21.568175v1.abstract)
 
 ## 2023
 
 
 
 # 🎖 Honors and Awards
-- 2016-2017 President’s Scholarship Second Class (top 7%) [[pdf]](../pdf/Award_Scholarship_2nd.pdf)
-- 2016-2017 Merit Student (top 5%)[[pdf]](../pdf/Award_MeritStudent_.pdf)
-- 2017-2018 President’s Scholarship Third Class (top 15%)[[pdf]](../pdf/Award_Scholarship_3nd_.pdf)
-- 2018-2019 President’s Scholarship Third Class (top 15%)[[pdf]](../pdf/Award_Scholarship_3nd.pdf)
-- 2018-2019 Merit Student (top 5%) [[pdf]](../pdf/Award_MeritStudent.pdf)
-- 2020 Outstanding Graduate Award (top 5%) [[pdf]](../pdf/Award_Outstanding_Graduate_Award.pdf)
-- 2021-2022 Honda Kiyoshi’s Advanced Speech Science Award [[pdf]](../pdf/hongda.pdf)
+- 2017 China National Scholarship (for Undergraduates, top 1%)
+- 2018 President's Scholarship, Northeast Normal University (top 5%)
+- 2021 Aired Scholarship, Shanghai Jiao Tong University (top 5%)
+- 2024 China National Scholarship (for Doctoral Students, top 1%)
 
 # 😄 Academic Activities
-- 2024.12 SLT 2024, Macao, China [[Image]](../images/SLT2024/index.html)
-- 2024.11. 深圳大湾区学术论坛 [[Image]](../images/haizhou_birthday/index.html)
-- 2024.08 [PolyU Research Student Conference](https://events.polyu.edu.hk/prsc2024/home) [[Image]](../images/PRSC/index.html)
-- 2024.04 Attending ICASSP 2024, Korea. [[Image]](../images/icassp2024/index.html)
-- 2024.03 ICASSP 2024 preview, organised by <a href='https://sds.cuhk.edu.cn/en/teacher/641'>Dr. Zhizheng WU </a>, Shenzhen. [[Image]](../images/icassp2024_preview/index.html)
-- 2023.12 International Doctoral Forum 2023, CUHK. [[Image]](../images/CUHK2023/index.html)
-- 2023.12 International Workshop on Mathematical Issues in Information Sciences 2023, CUHK(SZ). [[Image]](../images/MIIS2023/index.html)
-- 2023.12 CHINA HI-TECH Forum 2023, Shenzhen. [[Image]](../images/HITECH2023/index.html)
+- 2019.03 6th National Conference on Computational Biology and Bioinformatics (NCCBB 2019)
+- 2020.10 The 5th CCF Bioinformatics Conference (CBC 2020), Session Report
+- 2021.10 10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2021), Full-Length Paper, Published in Proceedings
+- 2022.05 10th International Conference on Bioinformatics and Computational Biology (ICBCB 2022), Full English Session Report
+- 2023.04 11th International Conference on Bioinformatics and Computational Biology (ICBCB 2023), Full-Length Paper, Published in Proceedings
+- 2023.07 CCF Bioinformatics "New Future" Youth Scholars Forum, Jilin Province, Academic Report
+- 2023.10 The 12th Chinese Conference on Bioinformatics & Systems Biology (CCBSB 2023), Poster, Third Place
+- 2024.11 5th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB 2024), Poster
 
 <!-- 
 # 🔥 News
