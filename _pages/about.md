@@ -28,12 +28,25 @@ My research interests focus on developing artificial intelligence algorithms to 
 
 # 📝 Publications
 
-## 2024 
-- **<u>Zhe Liu</u>**, Yihang Bao, Wenhao Li, et al. Benchmarking the coding strategies of non-coding mutations on sequence-based downstream tasks with machine learning. _BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v1) 
-- **<u>Zhe Liu</u>**, Yihang Bao, An Gu, et al. Predicting the regulatory impacts of non-coding variants on gene expression through epigenomic integration across tissues and single-cell landscapes. _BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.21.568175v1.abstract)
+## 2025
+- **<u>Zhe Liu</u>**, Yihang Bao, Wenhao Li, et al. Benchmarking the coding strategies of non-coding mutations on sequence-based downstream tasks with machine learning.
+_BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v1) 
+- **<u>Zhe Liu</u>**, Yihang Bao, An Gu, et al. Predicting the regulatory impacts of non-coding variants on gene expression through epigenomic integration across tissues and single-cell landscapes.
+_BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.21.568175v1.abstract)
+- **<u>Zhe Liu</u>**, An Gu, Yihang Bao, et al. Epigenetic impacts of non-coding mutations deciphered through pre-trained DNA language model at single-cell resolution.
+_BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2024.09.03.611114v1)
 
-## 2023
-
+## 2024
+- **<u>Zhe Liu</u>**, Mingxia Zhai, Weidi Wang, et al. Comprehensive Analysis of Peripheral Transcriptomic and Epigenomic Profiles for Predicting Clinical High-Risk Psychosis Transitions: A Machine Learning Approach.
+_2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)_, Accepted (Short paper)
+- **<u>Zhe Liu</u>**, Yihang Bao, Wenhaoi Li, Weihao Li, et al. MEMO-stab: Sequence-based Annotation of Mutation Effect on Transmembrane Protein Stability with Protein Language Model-Driven Machine Learning.
+_2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)_, Accepted (Regular paper) 
+- Weidi Wang#, **<u>Zhe Liu#</u>**, Daihui Peng, et al. Genomic Insights into Genes Expressed Specifically During Infancy Highlight Their Dominant Influence on the Neuronal System.
+_BMC Genomics_. [[link]](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-024-10911-0)
+- **<u>Zhe Liu</u>**, Yihang Bao#, Shuai Zeng, et al. Large Language Models in Psychiatry: Current Applications, Limitations, and Future Scope.
+_Big Data Mining and Analytics_. [[link]](https://www.sciopen.com/article/10.26599/BDMA.2024.9020046)
+- Weihao Li#, **<u>Zhe Liu#</u>**, Yihang Bao, et al. Mutation-Drug Sensitivity Data Resource (MDSDR): A Comprehensive Resource for Studying and Addressing Drug Resistance.
+_Frontiers of Computer Science_. [[link]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40390-1))
 
 
 # 🎖 Honors and Awards
@@ -51,6 +64,7 @@ My research interests focus on developing artificial intelligence algorithms to 
 - 2023.07 CCF Bioinformatics "New Future" Youth Scholars Forum, Jilin Province, Academic Report
 - 2023.10 The 12th Chinese Conference on Bioinformatics & Systems Biology (CCBSB 2023), Poster, Third Place
 - 2024.11 5th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB 2024), Poster
+- 2024.12 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024), Regular Paper(*1), Short Paper(*1), Video Presentation
 
 <!-- 
 # 🔥 News
