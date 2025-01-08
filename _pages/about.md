@@ -74,10 +74,10 @@ _Frontiers in Bioengineering and Biotechnology_. [[link]](https://www.frontiersi
 _Frontiers in Genetics_. [[link]](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2021.656140/full)
 
 # 🎖 Honors and Awards
-- 2017 China National Scholarship (for Undergraduates, top 1%)
-- 2018 President's Scholarship, Northeast Normal University (top 5%)
-- 2021 Aired Scholarship, Shanghai Jiao Tong University (top 5%)
 - 2024 China National Scholarship (for Doctoral Students, top 1%)
+- 2021 Aired Scholarship, Shanghai Jiao Tong University (top 5%)
+- 2018 President's Scholarship, Northeast Normal University (top 5%)
+- 2017 China National Scholarship (for Undergraduates, top 1%)
 
 # 😄 Academic Activities
 - 2024.12 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024), Regular Paper(1), Short Paper(1), Video Presentation
