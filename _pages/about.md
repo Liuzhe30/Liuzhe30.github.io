@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D candidate majoring in Biomedical Engineering at Shanghai Jiao Tong University (SJTU). 
+I am currently a Ph.D. candidate majoring in Biomedical Engineering at Shanghai Jiao Tong University (SJTU). 
 My research interests focus on developing artificial intelligence algorithms to address challenges in the fields of medicine and biology (AI for science). This includes mutation effect prediction, protein structure prediction, and the application of machine learning in mental health disorders. 
 
 
 # 📖 Educations
-- 2020.09 - present, Ph.D. candidate in School of Biomedical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai.   Supervisor: [Prof. Guan Ning Lin](https://bmi.sjtu.edu.cn/members.html)
+- 2020.09 - present, Ph.D. candidate in School of Biomedical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai.
+  Supervisor: [Prof. Guan Ning Lin](https://bmi.sjtu.edu.cn/members.html)
 - 2016-09 - 2020.06, B.E. in School of Information Science and Technology, Northeast Normal University (NENU), Changchun. 
 
 
@@ -79,15 +80,15 @@ _Frontiers in Genetics_. [[link]](https://www.frontiersin.org/journals/genetics/
 - 2024 China National Scholarship (for Doctoral Students, top 1%)
 
 # 😄 Academic Activities
-- 2019.03 6th National Conference on Computational Biology and Bioinformatics (NCCBB 2019)
-- 2020.10 The 5th CCF Bioinformatics Conference (CBC 2020), Session Report
-- 2021.10 10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2021), Full-Length Paper, Published in Proceedings
-- 2022.05 10th International Conference on Bioinformatics and Computational Biology (ICBCB 2022), English Session Report, Full-Length Paper, Published in Proceedings
-- 2023.04 11th International Conference on Bioinformatics and Computational Biology (ICBCB 2023), Full-Length Paper, Published in Proceedings
-- 2023.07 CCF Bioinformatics "New Future" Youth Scholars Forum, Jilin Province, Academic Report
-- 2023.10 The 12th Chinese Conference on Bioinformatics & Systems Biology (CCBSB 2023), Poster, Third Place
-- 2024.11 5th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB 2024), Poster
 - 2024.12 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024), Regular Paper(1), Short Paper(1), Video Presentation
+- 2024.11 5th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB 2024), Poster
+- 2023.10 The 12th Chinese Conference on Bioinformatics & Systems Biology (CCBSB 2023), Poster, Third Place
+- 2023.07 CCF Bioinformatics "New Future" Youth Scholars Forum, Jilin Province, Academic Report
+- 2023.04 11th International Conference on Bioinformatics and Computational Biology (ICBCB 2023), Full-Length Paper, Published in Proceedings
+- 2022.05 10th International Conference on Bioinformatics and Computational Biology (ICBCB 2022), English Session Report, Full-Length Paper, Published in Proceedings
+- 2021.10 10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2021), Full-Length Paper, Published in Proceedings
+- 2020.10 The 5th CCF Bioinformatics Conference (CBC 2020), Session Report
+- 2019.03 6th National Conference on Computational Biology and Bioinformatics (NCCBB 2019)
 
 # 👔 Teaching
 ## Shanghai Jiao Tong University
