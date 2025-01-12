@@ -29,12 +29,12 @@ My research interests focus on developing artificial intelligence algorithms to 
 # 📝 Publications
 
 ## 2025
-- **<u>Zhe Liu</u>**, Yihang Bao, Wenhao Li, et al. Benchmarking the coding strategies of non-coding mutations on sequence-based downstream tasks with machine learning.  
-_BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v1) 
-- **<u>Zhe Liu</u>**, Yihang Bao, An Gu, et al. Predicting the regulatory impacts of non-coding variants on gene expression through epigenomic integration across tissues and single-cell landscapes.  
-_BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.21.568175v1.abstract)
 - **<u>Zhe Liu</u>**, An Gu, Yihang Bao, et al. Epigenetic impacts of non-coding mutations deciphered through pre-trained DNA language model at single-cell resolution.  
 _BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2024.09.03.611114v1)
+- **<u>Zhe Liu</u>**, Yihang Bao, An Gu, et al. Predicting the regulatory impacts of non-coding variants on gene expression through epigenomic integration across tissues and single-cell landscapes.  
+_BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.21.568175v1.abstract)
+- **<u>Zhe Liu</u>**, Yihang Bao, Wenhao Li, et al. Benchmarking the coding strategies of non-coding mutations on sequence-based downstream tasks with machine learning.  
+_BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v1) 
 - Weihao Li#, **<u>Zhe Liu#</u>**, Yihang Bao, et al. Mutation-Drug Sensitivity Data Resource (MDSDR): A Comprehensive Resource for Studying and Addressing Drug Resistance.  
 _Frontiers of Computer Science_. [[link]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40390-1))
 
@@ -49,10 +49,10 @@ _Big Data Mining and Analytics_. [[link]](https://www.sciopen.com/article/10.265
 _BMC Genomics_. [[link]](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-024-10911-0)
 
 ## 2023
-- **<u>Zhe Liu</u>**, Yihang Bao, Weidi Wang, et al. Emden: A novel method Intergrating Graph and Transformer Representation for Predicting the Effect of Mutations on Clinical Drug Response.  
-_Computers in Biology and Medicine_. [[link]](https://www.sciencedirect.com/science/article/pii/S0010482523011435)
 - **<u>Zhe Liu</u>**, Wei Qian, Wenxiang Cai, et al. MIPPI: Inferring the effects of protein variants on protein–protein interactions with interpretable transformer representations.  
 _Research_. [[link]](https://spj.science.org/doi/10.34133/research.0219)
+- **<u>Zhe Liu</u>**, Yihang Bao, Weidi Wang, et al. Emden: A novel method Intergrating Graph and Transformer Representation for Predicting the Effect of Mutations on Clinical Drug Response.  
+_Computers in Biology and Medicine_. [[link]](https://www.sciencedirect.com/science/article/pii/S0010482523011435)
 - **<u>Zhe Liu</u>**, Mingxia Zhai, Weichen Song, et al. Assessing the Polygenic Risk between Anxiety and Gut Microbiota Using Machine Learning.  
 _11th International Conference on Bioinformatics and Computational Biology (ICBCB 2023)_. [[link]](https://ieeexplore.ieee.org/abstract/document/10246598)
 
