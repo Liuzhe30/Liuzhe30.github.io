@@ -81,6 +81,7 @@ _10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2
 # 😄 Academic Activities
 - 2024.12 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024), Regular Paper(1), Short Paper(1), Video Presentation
 - 2024.11 5th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB 2024), Poster
+- 2024.06 32nd Conference on Intelligent Systems for Molecular Biology (ISMB 2024), Poster (second author)
 - 2023.10 The 12th Chinese Conference on Bioinformatics & Systems Biology (CCBSB 2023), Poster, Third Place
 - 2023.07 CCF Bioinformatics "New Future" Youth Scholars Forum, Jilin Province, Academic Report
 - 2023.04 11th International Conference on Bioinformatics and Computational Biology (ICBCB 2023), Full-Length Paper, Published in Proceedings
