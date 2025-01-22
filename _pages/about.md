@@ -30,11 +30,11 @@ My research interests focus on developing artificial intelligence algorithms to 
 
 ## 2025
 - **<u>Zhe Liu</u>**, An Gu, Yihang Bao, et al. Epigenetic impacts of non-coding mutations deciphered through pre-trained DNA language model at single-cell resolution.  
-_BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2024.09.03.611114v1)
+_BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2024.09.03.611114v1) _(In press, Advanced Science)_
 - **<u>Zhe Liu</u>**, Yihang Bao, An Gu, et al. Predicting the regulatory impacts of non-coding variants on gene expression through epigenomic integration across tissues and single-cell landscapes.  
-_BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.21.568175v1.abstract)
+_BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.21.568175v1.abstract) _(Under Review)_
 - **<u>Zhe Liu</u>**, Yihang Bao, Wenhao Li, et al. Benchmarking the coding strategies of non-coding mutations on sequence-based downstream tasks with machine learning.  
-_BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v1) 
+_BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v1)  _(Under Review)_
 - Weihao Li#, **<u>Zhe Liu#</u>**, Yihang Bao, et al. Mutation-Drug Sensitivity Data Resource (MDSDR): A Comprehensive Resource for Studying and Addressing Drug Resistance.  
 _Frontiers of Computer Science_. [[link]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40390-1))
 
