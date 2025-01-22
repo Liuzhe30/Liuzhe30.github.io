@@ -29,47 +29,47 @@ My research interests focus on developing artificial intelligence algorithms to 
 # 📝 Publications
 
 ## 2025
-- **<u>Zhe Liu</u>**, An Gu, Yihang Bao, Guan Ning Lin*. Epigenetic impacts of non-coding mutations deciphered through pre-trained DNA language model at single-cell resolution.  
+- **<u>Zhe Liu</u>**, An Gu, Yihang Bao, Guan Ning Lin\*. Epigenetic impacts of non-coding mutations deciphered through pre-trained DNA language model at single-cell resolution.  
 _BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2024.09.03.611114v1) _(In press, Advanced Science)_
-- **<u>Zhe Liu</u>**, Yihang Bao, An Gu, Weichen Song, Guan Ning Lin*. Predicting the regulatory impacts of non-coding variants on gene expression through epigenomic integration across tissues and single-cell landscapes.  
+- **<u>Zhe Liu</u>**, Yihang Bao, An Gu, Weichen Song, Guan Ning Lin\*. Predicting the regulatory impacts of non-coding variants on gene expression through epigenomic integration across tissues and single-cell landscapes.  
 _BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.21.568175v1.abstract) _(Under Review)_
-- **<u>Zhe Liu#</u>**, Yihang Bao#, Wenhao Li#, Weihao Li, Guan Ning Lin*. Benchmarking the coding strategies of non-coding mutations on sequence-based downstream tasks with machine learning.  
+- **<u>Zhe Liu#</u>**, Yihang Bao#, Wenhao Li#, Weihao Li, Guan Ning Lin\*. Benchmarking the coding strategies of non-coding mutations on sequence-based downstream tasks with machine learning.  
 _BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v1)  _(Under Review)_
-- Weihao Li#, **<u>Zhe Liu#</u>**, Yihang Bao, Shunying Yu, Huafang Li, Guan Ning Lin*. Mutation-Drug Sensitivity Data Resource (MDSDR): A Comprehensive Resource for Studying and Addressing Drug Resistance.  
+- Weihao Li#, **<u>Zhe Liu#</u>**, Yihang Bao, Shunying Yu, Huafang Li, Guan Ning Lin\*. Mutation-Drug Sensitivity Data Resource (MDSDR): A Comprehensive Resource for Studying and Addressing Drug Resistance.  
 _Frontiers of Computer Science_. [[link]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40390-1))
 
 ## 2024
-- **<u>Zhe Liu#</u>**, Mingxia Zhai#, Weidi Wang#, An Gu, Weichen Song, Jisheng Liang, Shunying Yu*, Guan Ning Lin*. Comprehensive Analysis of Peripheral Transcriptomic and Epigenomic Profiles for Predicting Clinical High-Risk Psychosis Transitions: A Machine Learning Approach.  
+- **<u>Zhe Liu#</u>**, Mingxia Zhai#, Weidi Wang#, An Gu, Weichen Song, Jisheng Liang, Shunying Yu\*, Guan Ning Lin\*. Comprehensive Analysis of Peripheral Transcriptomic and Epigenomic Profiles for Predicting Clinical High-Risk Psychosis Transitions: A Machine Learning Approach.  
 _2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)_, Accepted (Short paper)
-- **<u>Zhe Liu#</u>**, Yihang Bao#, Wenhaoi Li#, Jinwei Wu, Weidi Wang*, Guan Ning Lin*. MEMO-stab: Sequence-based Annotation of Mutation Effect on Transmembrane Protein Stability with Protein Language Model-Driven Machine Learning.  
+- **<u>Zhe Liu#</u>**, Yihang Bao#, Wenhaoi Li#, Jinwei Wu, Weidi Wang\*, Guan Ning Lin\*. MEMO-stab: Sequence-based Annotation of Mutation Effect on Transmembrane Protein Stability with Protein Language Model-Driven Machine Learning.  
 _2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)_, Accepted (Regular paper)
-- **<u>Zhe Liu#</u>**, Yihang Bao#, Shuai Zeng#, Ruiyi Qian, Miaohan Deng, An Gu, Jianye Li, Weidi Wang, Wenxiang Cai, Wenhao Li, Han Wang*, Dong Xu*, Guan Ning Lin*. Large Language Models in Psychiatry: Current Applications, Limitations, and Future Scope.  
+- **<u>Zhe Liu#</u>**, Yihang Bao#, Shuai Zeng#, Ruiyi Qian, Miaohan Deng, An Gu, Jianye Li, Weidi Wang, Wenxiang Cai, Wenhao Li, Han Wang\*, Dong Xu\*, Guan Ning Lin\*. Large Language Models in Psychiatry: Current Applications, Limitations, and Future Scope.  
 _Big Data Mining and Analytics_. [[link]](https://www.sciopen.com/article/10.26599/BDMA.2024.9020046)
-- Weidi Wang#, **<u>Zhe Liu#</u>**, Daihui Peng, Guan Ning Lin*, Zhen Wang*. Genomic Insights into Genes Expressed Specifically During Infancy Highlight Their Dominant Influence on the Neuronal System.  
+- Weidi Wang#, **<u>Zhe Liu#</u>**, Daihui Peng, Guan Ning Lin\*, Zhen Wang\*. Genomic Insights into Genes Expressed Specifically During Infancy Highlight Their Dominant Influence on the Neuronal System.  
 _BMC Genomics_. [[link]](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-024-10911-0)
 
 ## 2023
-- **<u>Zhe Liu#</u>**, Wei Qian#, Wenxiang Cai#, Weichen Song, Weidi Wang, Dhruba Tara Maharjan, Wenhong Cheng, Jue Chen, Han Wang, Dong Xu*, Guan Ning Lin*. MIPPI: Inferring the effects of protein variants on protein–protein interactions with interpretable transformer representations.  
+- **<u>Zhe Liu#</u>**, Wei Qian#, Wenxiang Cai#, Weichen Song, Weidi Wang, Dhruba Tara Maharjan, Wenhong Cheng, Jue Chen, Han Wang, Dong Xu\*, Guan Ning Lin\*. MIPPI: Inferring the effects of protein variants on protein–protein interactions with interpretable transformer representations.  
 _Research_. [[link]](https://spj.science.org/doi/10.34133/research.0219)
-- **<u>Zhe Liu#</u>**, Yihang Bao#, Weidi Wang, Liangwei Pan, Han Wang*, Guan Ning Lin*. Emden: A novel method Intergrating Graph and Transformer Representation for Predicting the Effect of Mutations on Clinical Drug Response.  
+- **<u>Zhe Liu#</u>**, Yihang Bao#, Weidi Wang, Liangwei Pan, Han Wang\*, Guan Ning Lin\*. Emden: A novel method Intergrating Graph and Transformer Representation for Predicting the Effect of Mutations on Clinical Drug Response.  
 _Computers in Biology and Medicine_. [[link]](https://www.sciencedirect.com/science/article/pii/S0010482523011435)
-- **<u>Zhe Liu#</u>**, Mingxia Zhai#, Weichen Song, Yihang Bao, Wenxiang Cai, Guan Ning Lin*. Assessing the Polygenic Risk between Anxiety and Gut Microbiota Using Machine Learning.  
+- **<u>Zhe Liu#</u>**, Mingxia Zhai#, Weichen Song, Yihang Bao, Wenxiang Cai, Guan Ning Lin\*. Assessing the Polygenic Risk between Anxiety and Gut Microbiota Using Machine Learning.  
 _11th International Conference on Bioinformatics and Computational Biology (ICBCB 2023)_. [[link]](https://ieeexplore.ieee.org/abstract/document/10246598)
 
 ## 2022
-- **<u>Zhe Liu#</u>**, Weihao Pan#, Weihao Li#, Xuyang Zhen, Jisheng Liang, Wenxiang Cai, Fei Xu, Kai Yuan, Guan Ning Lin*. Evaluation of the Effectiveness of Derived Features of AlphaFold2 on Single-Sequence Protein Binding Site Prediction.  
+- **<u>Zhe Liu#</u>**, Weihao Pan#, Weihao Li#, Xuyang Zhen, Jisheng Liang, Wenxiang Cai, Fei Xu, Kai Yuan, Guan Ning Lin\*. Evaluation of the Effectiveness of Derived Features of AlphaFold2 on Single-Sequence Protein Binding Site Prediction.  
 _Biology_. [[link]](https://www.mdpi.com/2079-7737/11/10/1454/htm)
-- **<u>Zhe Liu#</u>**, Weihao Pan#, Xuyang Zhen, Jisheng Liang, Wenxiang Cai, Guan Ning Lin*. Will AlphaFold2 be Helpful in Improving the Accuracy of Single-sequence PPI Site Prediction?  
+- **<u>Zhe Liu#</u>**, Weihao Pan#, Xuyang Zhen, Jisheng Liang, Wenxiang Cai, Guan Ning Lin\*. Will AlphaFold2 be Helpful in Improving the Accuracy of Single-sequence PPI Site Prediction?  
 _10th International Conference on Bioinformatics and Computational Biology (ICBCB 2022)_. [[link]](https://ieeexplore.ieee.org/document/9802490)
-- Weihao Pan#, **<u>Zhe Liu#</u>**, Weichen Song, Xuyang Zhen, Kai Yuan, Fei Xu*, Guan Ning Lin*. An Integrative Segmentation Framework for Cell Nucleus of Fluorescence Microscopy.  
+- Weihao Pan#, **<u>Zhe Liu#</u>**, Weichen Song, Xuyang Zhen, Kai Yuan, Fei Xu\*, Guan Ning Lin\*. An Integrative Segmentation Framework for Cell Nucleus of Fluorescence Microscopy.  
 _Genes_. [[link]](https://www.mdpi.com/2073-4425/13/3/431/htm)
 
 ## 2021
-- **<u>Zhe Liu</u>**, Yingli Gong, Yihang Bao, Yuanzhao Guo, Han Wang*, Guan Ning Lin*. TMPSS: A Deep Learning-Based Predictor for Secondary Structure and Topology Structure Prediction of Alpha-helical Transmembrane Proteins.  
+- **<u>Zhe Liu</u>**, Yingli Gong, Yihang Bao, Yuanzhao Guo, Han Wang\*, Guan Ning Lin\*. TMPSS: A Deep Learning-Based Predictor for Secondary Structure and Topology Structure Prediction of Alpha-helical Transmembrane Proteins.  
 _Frontiers in Bioengineering and Biotechnology_. [[link]](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2020.629937/full)
-- **<u>Zhe Liu</u>**, Yingli Gong, Yuanzhao Guo, Xiao Zhang, Chang Lu, Li Zhang*, Han Wang*. TMP-SSurface2: A Novel Deep Learning-Based Surface Accessibility Predictor for Transmembrane Protein Sequence.  
+- **<u>Zhe Liu</u>**, Yingli Gong, Yuanzhao Guo, Xiao Zhang, Chang Lu, Li Zhang\*, Han Wang\*. TMP-SSurface2: A Novel Deep Learning-Based Surface Accessibility Predictor for Transmembrane Protein Sequence.  
 _Frontiers in Genetics_. [[link]](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2021.656140/full)
-- Weihao Pan#, **<u>Zhe Liu#</u>**, Guan Ning Lin*. ASW-Net: A Deep Learning-based Tool for Cell Nucleus Segmentation of Fluorescence Microscopy.  
+- Weihao Pan#, **<u>Zhe Liu#</u>**, Guan Ning Lin\*. ASW-Net: A Deep Learning-based Tool for Cell Nucleus Segmentation of Fluorescence Microscopy.  
 _10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2021)_. [[link]](https://dl.acm.org/doi/10.1145/3498731.3498734)
 
 # 🎖 Honors and Awards
