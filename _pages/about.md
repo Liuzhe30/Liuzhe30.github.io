@@ -30,7 +30,7 @@ My research interests focus on developing artificial intelligence algorithms to 
 
 ## 2025
 - **<u>Zhe Liu</u>**, An Gu, Yihang Bao, Guan Ning Lin\*. Epigenetic impacts of non-coding mutations deciphered through pre-trained DNA language model at single-cell resolution.  
-_BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2024.09.03.611114v1) _(In press, Advanced Science)_
+_Advanced Science_. [[link]](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202413571)
 - **<u>Zhe Liu</u>**, Yihang Bao, An Gu, Weichen Song, Guan Ning Lin\*. Predicting the regulatory impacts of non-coding variants on gene expression through epigenomic integration across tissues and single-cell landscapes.  
 _BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.21.568175v1.abstract) _(Under Review)_
 - **<u>Zhe Liu#</u>**, Yihang Bao#, Wenhao Li#, Weihao Li, Guan Ning Lin\*. Benchmarking the coding strategies of non-coding mutations on sequence-based downstream tasks with machine learning.  
