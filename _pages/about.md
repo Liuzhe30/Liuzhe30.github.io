@@ -75,6 +75,7 @@ _10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2
 # 🎖 Honors and Awards
 - 2024 China National Scholarship (for Doctoral Students, top 1%)
 - 2021 Aired Scholarship, Shanghai Jiao Tong University (top 5%)
+- 2020 President's Scholarship, Northeast Normal University (top 5%)
 - 2018 President's Scholarship, Northeast Normal University (top 5%)
 - 2017 China National Scholarship (for Undergraduates, top 1%)
 
