@@ -41,7 +41,7 @@ _Frontiers of Computer Science_. [[link]](https://journal.hep.com.cn/fcs/EN/10.1
 ## 2024
 - **<u>Zhe Liu#</u>**, Yihang Bao#, Wenhaoi Li#, Jinwei Wu, Weidi Wang\*, Guan Ning Lin\*. MEMO-stab: Sequence-based Annotation of Mutation Effect on Transmembrane Protein Stability with Protein Language Model-Driven Machine Learning.  
 _2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)_.[[link]](https://ieeexplore.ieee.org/abstract/document/10821753/)
-- **<u>Zhe Liu#</u>**, Weidi Wang#, Mingxia Zhai#, An Gu, Weichen Song, Jisheng Liang, Shunying Yu\*, Guan Ning Lin\*. Predicting Psychosis Progression in Clinical High-Risk Individuals Using Peripheral Transcriptomic and Epigenomic Profiles: A Machine Learning Approach.  
+- **<u>Zhe Liu#</u>**, Weidi Wang#, Mingxia Zhai#, An Gu, Shunying Yu\*, Guan Ning Lin\*. Predicting Psychosis Progression in Clinical High-Risk Individuals Using Peripheral Transcriptomic and Epigenomic Profiles: A Machine Learning Approach.  
 _2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)_.[[link]](https://ieeexplore.ieee.org/document/10822321) 
 - **<u>Zhe Liu#</u>**, Yihang Bao#, Shuai Zeng#, Ruiyi Qian, Miaohan Deng, An Gu, Jianye Li, Weidi Wang, Wenxiang Cai, Wenhao Li, Han Wang\*, Dong Xu\*, Guan Ning Lin\*. Large Language Models in Psychiatry: Current Applications, Limitations, and Future Scope.  
 _Big Data Mining and Analytics_. [[link]](https://www.sciopen.com/article/10.26599/BDMA.2024.9020046)
