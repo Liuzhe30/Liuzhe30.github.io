@@ -22,8 +22,8 @@ My research interests focus on developing artificial intelligence algorithms to 
 
 
 # 📖 Educations
-- 2020.09 - present, Ph.D. candidate in School of Biomedical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai.  Supervisor: [Prof. Guan Ning Lin](https://bmi.sjtu.edu.cn/members.html)
-- 2016-09 - 2020.06, B.E. in School of Information Science and Technology, Northeast Normal University (NENU), Changchun. 
+- 2020.09 - present  Ph.D. candidate in Biomedical Engineering  School of Biomedical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai, China  Supervisor: [Prof. Guan Ning Lin](https://bmi.sjtu.edu.cn/members.html)
+- 2016-09 - 2020.06  B.Sc. in Computer Science and Technology  School of Information Science and Technology, Northeast Normal University (NENU), Changchun, China
 
 
 # 📝 Publications
