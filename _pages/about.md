@@ -85,6 +85,7 @@ _10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2
 - 2017 China National Scholarship (for Undergraduates, top 1%)
 
 # 😄 Academic Activities
+- 2025.05 11th National Conference on Computational Biology and Bioinformatics (NCCBB 2025), Session Report
 - 2025.04 CCF Bioinformatics "BIO-3NEW" Youth Scholars Forum, Session Report
 - 2024.12 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024), Regular Paper(1), Short Paper(1), Video Presentation
 - 2024.11 5th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB 2024), Poster
