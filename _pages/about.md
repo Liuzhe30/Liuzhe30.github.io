@@ -37,7 +37,7 @@ School of Information Science and Technology, Northeast Normal University (NENU)
 - **<u>Zhe Liu</u>**, An Gu, Yihang Bao, Guan Ning Lin\*. Epigenetic impacts of non-coding mutations deciphered through pre-trained DNA language model at single-cell resolution.  
 _Advanced Science_. [[link]](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202413571)
 - **<u>Zhe Liu</u>**, Yihang Bao, An Gu, Weichen Song, Guan Ning Lin\*. Predicting the regulatory impacts of non-coding variants on gene expression through epigenomic integration across tissues and single-cell landscapes.  
-_BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.21.568175v2) _(Under Review)_
+_BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.21.568175v2) _Nature Computational Science, accept in principle_
 - **<u>Zhe Liu#</u>**, Yihang Bao#, Wenhao Li#, Chengyi Yang, Weidi Wang, Wenxiang Cai, Guan Ning Lin\*. Benchmarking the coding strategies of non-coding mutations on sequence-based downstream tasks with machine learning.  
 _BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v2)  _(Under Review)_
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Memo-Patho: Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
