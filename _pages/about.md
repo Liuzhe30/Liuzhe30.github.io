@@ -44,7 +44,7 @@ _Frontiers of Computer Science_. [[link]](https://journal.hep.com.cn/fcs/EN/10.1
 _BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v2)  _(Under Review)_
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Memo-Patho: Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
 _BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2025.05.18.654712v1)
-- Zhejun Kuang#, Yunkai Li#, **<u>Zhe Liu#</u>**, Jian Zhao, Lijuan Shi, Akira-Kawai, Han Wang\*. Trends Assessment of the Genetic Mutation Induced Protein-Protein Interaction Variation via Protein Large Language Driven Method.
+- Zhejun Kuang#, Yunkai Li#, **<u>Zhe Liu#</u>**, Jian Zhao, Lijuan Shi, Akira-Kawai, Han Wang\*. Trends Assessment of the Genetic Mutation Induced Protein-Protein Interaction Variation via Protein Large Language Driven Method.  
 _BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2025.05.23.655070v1)
 
 
