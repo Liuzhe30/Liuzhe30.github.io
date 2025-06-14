@@ -33,7 +33,7 @@ I aim to bridge computation and biomedicine by building **interpretable, intelli
 - 2020.09 - 2025.6  
 Ph.D. in Biomedical Engineering  
 School of Biomedical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai, China  
-Supervisor: [Prof. Guan Ning Lin](https://bme.sjtu.edu.cn/En/FacultyDetail/34)
+Supervisor: [Prof. Guan Ning Lin](https://bme.sjtu.edu.cn/En/FacultyDetail/34)  
 Also With academic mentorship from: [Prof. Dong Xu](https://engineering.missouri.edu/faculty/dong-xu/)  
 - 2016-09 - 2020.06  
 B.Sc. in Computer Science and Technology  
