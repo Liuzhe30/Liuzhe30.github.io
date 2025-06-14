@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi! I’m **Zhe Liu (刘喆)**, and you can also call me **Zelya** (/ˈzæliə/).  
-I recently earned my Ph.D. in Biomedical Engineering at Shanghai Jiao Tong University (SJTU), advised by [Prof. Guan Ning Lin](https://bmi.sjtu.edu.cn/members.html) and [Prof. Dong Xu](https://engineering.missouri.edu/faculty/dong-xu/). Prior to that, I received my B.Sc. in Computer Science from Northeast Normal University, advised by [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm).  
+I recently earned my Ph.D. in Biomedical Engineering at Shanghai Jiao Tong University (SJTU), advised by [Prof. Guan Ning Lin](https://bmi.sjtu.edu.cn/members.html) and [Prof. Dong Xu](https://engineering.missouri.edu/faculty/dong-xu/). Prior to that, I received my B.Sc. in Computer Science from Northeast Normal University(NENU), advised by [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm).  
 My research centers on **AI for Science**, particularly:  
   
 - **Variant effect prediction**  
@@ -29,13 +29,13 @@ I aim to bridge computation and biomedicine by building **interpretable, intelli
 
 
 # 📖 Educations
-- 2020.09 - 2020.6  
+- 2020.09 - 2025.6  
 Ph.D. in Biomedical Engineering  
 School of Biomedical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai, China  
 Supervisor: [Prof. Guan Ning Lin](https://bme.sjtu.edu.cn/En/FacultyDetail/34), [Prof. Dong Xu](https://engineering.missouri.edu/faculty/dong-xu/)
 - 2016-09 - 2020.06  
 B.Sc. in Computer Science and Technology  
-School of Information Science and Technology, Northeast Normal University (NENU), Changchun, China
+School of Information Science and Technology, Northeast Normal University (NENU), Changchun, China  
 Academic Advisor: [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm)
 
 
