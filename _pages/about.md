@@ -93,11 +93,12 @@ _Frontiers in Genetics_. [[link]](https://www.frontiersin.org/journals/genetics/
 _10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2021)_. [[link]](https://dl.acm.org/doi/10.1145/3498731.3498734)
 
 # 🎖 Honors and Awards
-- 2024 China National Scholarship (for Doctoral Students, top 1%)
-- 2021 Aired Scholarship, Shanghai Jiao Tong University (top 5%)
-- 2020 President's Scholarship, Northeast Normal University (top 5%)
-- 2018 President's Scholarship, Northeast Normal University (top 5%)
-- 2017 China National Scholarship (for Undergraduates, top 1%)
+- 2025 Outstanding Graduate of Shanghai Jiao Tong University
+- 2024 China National Scholarship (for Doctoral Students)
+- 2021 Aired Scholarship, Shanghai Jiao Tong University
+- 2020 President's Scholarship, Northeast Normal University
+- 2018 President's Scholarship, Northeast Normal University
+- 2017 China National Scholarship (for Undergraduates)
 
 # 😄 Academic Activities
 - 2025.05 11th National Conference on Computational Biology and Bioinformatics (NCCBB 2025), Session Report
