@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi! I’m **Zhe Liu (刘喆)**, and you can also call me **Zelya** (/ˈzæliə/).  
-I recently received my Ph.D. in Biomedical Engineering at Shanghai Jiao Tong University (SJTU), supervised by [Prof. Guan Ning Lin](https://bmi.sjtu.edu.cn/members.html), also with academic guidance from [Prof. Dong Xu](https://engineering.missouri.edu/faculty/dong-xu/). Prior to that, I received my B.Sc. in Computer Science from Northeast Normal University (NENU) in 2020, advised by [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm).  
+I recently received my Ph.D. in Biomedical Engineering at Shanghai Jiao Tong University (SJTU), supervised by [Prof. Guan Ning Lin](https://bme.sjtu.edu.cn/En/FacultyDetail/34), also with academic guidance from [Prof. Dong Xu](https://engineering.missouri.edu/faculty/dong-xu/). Prior to that, I received my B.Sc. in Computer Science from Northeast Normal University (NENU) in 2020, advised by [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm).  
   
 My research centers on **AI for Science**, particularly:  
   
@@ -47,7 +47,7 @@ Academic Advisor: [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm)
 - **<u>Zhe Liu</u>**, An Gu, Yihang Bao, Guan Ning Lin\*. Epigenetic impacts of non-coding mutations deciphered through pre-trained DNA language model at single-cell resolution.  
 _Advanced Science_. [[link]](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202413571)
 - **<u>Zhe Liu</u>**, Yihang Bao, An Gu, Weichen Song, Guan Ning Lin\*. Predicting the regulatory impacts of non-coding variants on gene expression through epigenomic integration across tissues and single-cell landscapes.  
-_BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.21.568175v2) _(Nature Computational Science, accept in principle)_
+_(Nature Computational Science, accept in principle)_. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.21.568175v2)  
 - Weihao Li#, **<u>Zhe Liu#</u>**, Yihang Bao, Shunying Yu, Huafang Li, Guan Ning Lin\*. Mutation-Drug Sensitivity Data Resource (MDSDR): A Comprehensive Resource for Studying and Addressing Drug Resistance.  
 _Frontiers of Computer Science_. [[link]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40390-1))
 - **<u>Zhe Liu#</u>**, Yihang Bao#, Wenhao Li#, Chengyi Yang, Weidi Wang, Wenxiang Cai, Guan Ning Lin\*. Benchmarking the coding strategies of non-coding mutations on sequence-based downstream tasks with machine learning.  
