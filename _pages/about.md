@@ -20,17 +20,32 @@ redirect_from:
 Hi! I’m **Zhe Liu (刘喆)**, and you can also call me **Zelya** (/ˈzæliə/).  
 I recently received my Ph.D. in Biomedical Engineering at Shanghai Jiao Tong University (SJTU), supervised by [Prof. Guan Ning Lin](https://bme.sjtu.edu.cn/En/FacultyDetail/34), also with academic guidance from [Prof. Dong Xu](https://engineering.missouri.edu/faculty/dong-xu/). Prior to that, I received my B.Sc. in Computer Science from Northeast Normal University (NENU) in 2020, advised by [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm).  
   
-My research centers on **AI for Science**, particularly:  
+My research focuses on **AI for Science**, aiming to bridge computation and biomedicine through the development of **interpretable, intelligent, and biologically meaningful models**. Current interests include:  
   
 - **Variant effect prediction**  
 - **Protein structure and interaction modeling**  
-- **AI applications in mental health**  
-  
-I aim to bridge computation and biomedicine by building **interpretable, intelligent, and biologically meaningful models**.  
+- **AI applications in Psychiatry**  
 
+💌 *I warmly welcome collaboration opportunities and invite students interested in my research to get in touch!*
+
+---
+
+大家好，我是**刘喆**，现任**华东理工大学信息科学与工程学院计算机系讲师**。  
+我的研究方向为**AI for Science**，致力于通过构建**可解释、智能且具有生物学意义的模型**，推动计算科学与生物医学的交叉发展。研究兴趣包括：
+
+- **突变效应预测**
+- **蛋白质结构与相互作用建模**
+- **人工智能在精神病学中的应用**
+
+💌 *欢迎科研合作，也欢迎对我的研究方向感兴趣的同学联系我！*  
+
+# 📂 Professional Experience
+- 2025.07 – Present  
+Lecturer
+Department of Computer Science and Engineering, East China University of Science and Technology (ECUST), Shanghai, China
 
 # 📖 Educations
-- 2020.09 - 2025.6  
+- 2020.09 - 2025.06  
 Ph.D. in Biomedical Engineering  
 School of Biomedical Engineering, Shanghai Jiao Tong University (SJTU), Shanghai, China  
 Supervisor: [Prof. Guan Ning Lin](https://bme.sjtu.edu.cn/En/FacultyDetail/34)  
