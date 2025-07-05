@@ -30,7 +30,7 @@ My research focuses on **AI for Science**, aiming to bridge computation and biom
 
 ---
 
-大家好，我是**刘喆**，现任**华东理工大学信息科学与工程学院计算机系讲师**。  
+大家好，我是**刘喆**，现任**华东理工大学信息科学与工程学院计算机系讲师**，从事教学科研工作。  
 我的研究方向为**AI for Science**，致力于通过构建**可解释、智能且具有生物学意义的模型**，推动计算科学与生物医学的交叉发展。研究兴趣包括：
 
 - **突变效应预测**
@@ -41,7 +41,7 @@ My research focuses on **AI for Science**, aiming to bridge computation and biom
 
 # 📂 Professional Experience
 - 2025.07 – Present  
-Lecturer
+Lecturer  
 Department of Computer Science and Engineering, East China University of Science and Technology (ECUST), Shanghai, China
 
 # 📖 Educations
