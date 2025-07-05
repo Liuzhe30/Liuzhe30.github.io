@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhe Liu (刘喆)"
-description              : "Ph.D. in Biomedical Engineering"
+description              : "Lecturer in Computer Science | 华东理工大学讲师"
 repository               : "Liuzhe30/Liuzhe30.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhe Liu (刘喆)"
   avatar           : "images/momo.png"
-  bio              : #"Stay Hungry, Stay Foolish"
+  bio              : "Lecturer, Department of Computer Science and Engineering, East China University of Science and Technology"
   location         : "Shanghai, China"
-  employer         :
+  employer         : "华东理工大学计算机系 (Department of Computer Science, ECUST)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4gCPTx8AAAAJ&hl=en"
-  email            : "liuzlm1030@sjtu.edu.cn"
+  email            : "liuzlm1030@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
