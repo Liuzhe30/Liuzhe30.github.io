@@ -41,7 +41,7 @@ My research focuses on **AI for Science**, aiming to bridge computation and biom
 💌 *欢迎科研合作，也欢迎对我的研究方向感兴趣的同学联系我！*  
 
 # 📂 Professional Experience
-- 2025.07 – Present  
+- 2025.07 - Present  
 Lecturer  
 Department of Computer Science and Engineering, East China University of Science and Technology (ECUST), Shanghai, China
 
