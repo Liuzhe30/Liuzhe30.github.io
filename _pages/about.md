@@ -130,11 +130,21 @@ _10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2
 - 2020.10 5th CCF Bioinformatics Conference (CBC 2020), Session Report
 - 2019.03 6th National Conference on Computational Biology and Bioinformatics (NCCBB 2019)
 
+# 🔭 Academic Service
+## Academic Membership
+- Youth Committee Member, CCF BIO-3NEW (CCF生物信息学“BIO-3NEW”青年学者执委会委员)
+
+## Conference Committee
+- Program Committee Member, IEEE BIBM 2025
+
+## Journal Reviewer
+- Reviewer for Information Sciences
+- Reviewer for Frontiers of Computer Science
+
 # 👔 Teaching
 ## Shanghai Jiao Tong University
 - Spring 2021, **<u>Teaching Assistant</u>**, Fundamentals of Biomedical Statistics 
 - Spring 2022, **<u>Teaching Assistant</u>**, Fundamentals of Biomedical Statistics
-
 
 <!-- 
 # 🔥 News
