@@ -14,6 +14,9 @@ main:
 
   - title: "Acdemica activities"
     url: "/#-academic-activities"
+
+  - title: "Academic Service"
+    url: "/#-academic-service"
   
   - title: "Teaching"
     url: "/#-teaching"
