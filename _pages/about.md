@@ -61,7 +61,7 @@ Academic Advisor: [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm)
 
 ## 2025
 - **<u>Zhe Liu</u>**, Yihang Bao, An Gu, Weichen Song, Guan Ning Lin\*. Predicting the regulatory impacts of non-coding variants on gene expression through epigenomic integration across tissues and single-cell landscapes.  
-_Nature Computational Science, accepted in principle_. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.21.568175v2) (2025 IF=18.3)
+_Nature Computational Science, accepted_. [[link]](https://www.biorxiv.org/content/10.1101/2023.11.21.568175v2) (2025 IF=18.3)
 - **<u>Zhe Liu</u>**, An Gu, Yihang Bao, Guan Ning Lin\*. Epigenetic impacts of non-coding mutations deciphered through pre-trained DNA language model at single-cell resolution.  
 _Advanced Science_. [[link]](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202413571) (2025 IF=14.1)
 - Weihao Li#, **<u>Zhe Liu#</u>**, Yihang Bao, Shunying Yu, Huafang Li, Guan Ning Lin\*. Mutation-Drug Sensitivity Data Resource (MDSDR): A Comprehensive Resource for Studying and Addressing Drug Resistance.  
