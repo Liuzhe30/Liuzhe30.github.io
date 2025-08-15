@@ -67,7 +67,7 @@ _Advanced Science_. [[link]](https://advanced.onlinelibrary.wiley.com/doi/10.100
 - Weihao Li#, **<u>Zhe Liu#</u>**, Yihang Bao, Shunying Yu, Huafang Li, Guan Ning Lin\*. Mutation-Drug Sensitivity Data Resource (MDSDR): A Comprehensive Resource for Studying and Addressing Drug Resistance.  
 _Frontiers of Computer Science_. [[link]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40390-1)) (2025 IF=4.6)
 - **<u>Zhe Liu#</u>**, Yihang Bao#, Wenhao Li#, Chengyi Yang, Weidi Wang, Wenxiang Cai, Guan Ning Lin\*. Benchmarking the coding strategies of non-coding mutations on sequence-based downstream tasks with machine learning.  
-_BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v2)  _(Under Review)_
+_2025 Asia Pacific Bioinformatics Conference (APBC 2025), accepted_. [[link]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v2)
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Memo-Patho: Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
 _BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2025.05.18.654712v1)
 - Zhejun Kuang#, Yunkai Li#, **<u>Zhe Liu#</u>**, Jian Zhao, Lijuan Shi, Akira-Kawai, Han Wang\*. Trends Assessment of the Genetic Mutation Induced Protein-Protein Interaction Variation via Protein Large Language Driven Method.  
@@ -117,6 +117,7 @@ _10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2
 - 2017 China National Scholarship (for Undergraduates)
 
 # 😄 Academic Activities
+- 2025.08 10th CCF Bioinformatics Conference (CBC 2025)
 - 2025.05 11th National Conference on Computational Biology and Bioinformatics (NCCBB 2025), Session Report
 - 2025.04 CCF Bioinformatics "BIO-3NEW" Youth Scholars Forum, Session Report
 - 2024.12 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024), Regular Paper(1), Short Paper(1), Video Presentation
@@ -131,20 +132,22 @@ _10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2
 - 2019.03 6th National Conference on Computational Biology and Bioinformatics (NCCBB 2019)
 
 # 🔭 Academic Service
-## Academic Membership
+### Academic Membership
 - Youth Committee Member, CCF BIO-3NEW (CCF生物信息学“BIO-3NEW”青年学者执委会委员)
 
-## Conference Committee
+### Conference Committee
 - Program Committee Member, IEEE BIBM 2025
 
-## Journal Reviewer
+### Journal Reviewer
 - Reviewer for Information Sciences
 - Reviewer for Frontiers of Computer Science
 
 # 👔 Teaching
-## Shanghai Jiao Tong University
-- Spring 2021, **<u>Teaching Assistant</u>**, Fundamentals of Biomedical Statistics 
-- Spring 2022, **<u>Teaching Assistant</u>**, Fundamentals of Biomedical Statistics
+### East China University of Science and Technology
+- Fall 2025: **<u>Principles and Practices of Large Language Models</u>** (Co-Instructor)  
+
+### Shanghai Jiao Tong University
+- Spring 2021 & 2022: **<u>Fundamentals of Biomedical Statistics</u>** (Teaching Assistant)
 
 <!-- 
 # 🔥 News
