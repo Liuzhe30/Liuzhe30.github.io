@@ -142,17 +142,6 @@ _10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2
   - **Oral Presentation**  
 - **2019.03** NCCBB 2019 – 6th National Conference on Computational Biology and Bioinformatics  
 
-# 🔭 Academic Service
-### Academic Membership
-- Youth Committee Member, CCF BIO-3NEW (CCF生物信息学“BIO-3NEW”青年学者执委会委员)
-
-### Conference Committee
-- Program Committee Member, IEEE BIBM 2025
-
-### Journal Reviewer
-- Reviewer for Information Sciences
-- Reviewer for Frontiers of Computer Science
-
 # 👔 Teaching
 ### East China University of Science and Technology
 - Fall 2025: **<u>Principles and Practices of Large Language Models</u>** (Co-Instructor)  
