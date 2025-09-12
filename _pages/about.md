@@ -59,6 +59,8 @@ Academic Advisor: [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm)
 
 # 📝 Publications
 ## Preprints
+- **<u>Zhe Liu#</u>**, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Hui Jin, Hai Yang, Zhejun Kuang\*, Guan Ning Lin\*, Zhe Wang\*, Han Wang\*. An Interactive AI Agent for Adaptive Modeling of RNA Region-Ligand Interactions via LLM-Generated Machine Learning Workflows.  
+_BiorXiv preprint_. [[link]]()
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Memo-Patho: Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
 _BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2025.05.18.654712v1)
 - Zhejun Kuang#, Yunkai Li#, **<u>Zhe Liu#</u>**, Jian Zhao, Lijuan Shi, Akira-Kawai, Han Wang\*. Trends Assessment of the Genetic Mutation Induced Protein-Protein Interaction Variation via Protein Large Language Driven Method.  
@@ -125,11 +127,11 @@ _10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2
 - **2024.12** IEEE BIBM 2024 – International Conference on Bioinformatics and Biomedicine  
   - Regular Paper (1), Short Paper (1), **Oral Presentation**  
 - **2024.11** ACM BCB 2024 – 5th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics  
-  - **Poster**  
+  - Poster  
 - **2024.06** ISMB 2024 – 32nd Conference on Intelligent Systems for Molecular Biology  
-  - **Poster** (Second Author)  
+  - Poster (Second Author)  
 - **2023.10** CCBSB 2023 – 12th Chinese Conference on Bioinformatics & Systems Biology  
-  - **Poster** (Third Place)  
+  - Poster (Third Place)  
 - **2023.07** CCF BIO-3NEW Youth Scholars Forum  
   - **Invited Talk**  
 - **2023.04** ICBCB 2023 – 11th International Conference on Bioinformatics and Computational Biology  
