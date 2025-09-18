@@ -60,7 +60,7 @@ Academic Advisor: [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm)
 # 📝 Publications
 ## Preprints
 - **<u>Zhe Liu#</u>**, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Hui Jin, Hai Yang, Zhejun Kuang\*, Guan Ning Lin\*, Zhe Wang\*, Han Wang\*. An Interactive AI Agent for Adaptive Modeling of RNA Region-Ligand Interactions via LLM-Generated Machine Learning Workflows.  
-_BiorXiv preprint_. [[link]]()
+_BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v1)
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Memo-Patho: Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
 _BiorXiv preprint_. [[link]](https://www.biorxiv.org/content/10.1101/2025.05.18.654712v1)
 - Zhejun Kuang#, Yunkai Li#, **<u>Zhe Liu#</u>**, Jian Zhao, Lijuan Shi, Akira-Kawai, Han Wang\*. Trends Assessment of the Genetic Mutation Induced Protein-Protein Interaction Variation via Protein Large Language Driven Method.  
