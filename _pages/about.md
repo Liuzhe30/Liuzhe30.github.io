@@ -121,6 +121,8 @@ _10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2
 - 2017 China National Scholarship (for Undergraduates)
 
 # 😄 Academic Activities
+- **2025.09** APBC 2025 - 23rd Asia Pacific Bioinformatics Conference 
+  - Regular Paper, **Oral Presentation**  
 - **2025.08** CBC 2025 - 10th CCF Bioinformatics Conference  
 - **2025.05** NCCBB 2025 – 11th National Conference on Computational Biology and Bioinformatics  
   - **Invited Talk**  
@@ -131,17 +133,17 @@ _10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2
 - **2024.11** ACM BCB 2024 – 5th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics  
   - Poster  
 - **2024.06** ISMB 2024 – 32nd Conference on Intelligent Systems for Molecular Biology  
-  - Poster (Second Author)  
+  - Poster
 - **2023.10** CCBSB 2023 – 12th Chinese Conference on Bioinformatics & Systems Biology  
-  - Poster (Third Place)  
+  - Poster
 - **2023.07** CCF BIO-3NEW Youth Scholars Forum  
   - **Invited Talk**  
 - **2023.04** ICBCB 2023 – 11th International Conference on Bioinformatics and Computational Biology  
-  - Full-Length Paper, Published in Proceedings  
+  - Regular Paper  
 - **2022.05** ICBCB 2022 – 10th International Conference on Bioinformatics and Computational Biology  
-  - Full-Length Paper, Published in Proceedings, **Oral Presentation**  
+  - Regular Paper, **Oral Presentation**  
 - **2021.10** ICBBS 2021 – 10th International Conference on Bioinformatics and Biomedical Science  
-  - Full-Length Paper, Published in Proceedings  
+  - Regular Paper  
 - **2020.10** CBC 2020 – 5th CCF Bioinformatics Conference  
   - **Oral Presentation**  
 - **2019.03** NCCBB 2019 – 6th National Conference on Computational Biology and Bioinformatics  
