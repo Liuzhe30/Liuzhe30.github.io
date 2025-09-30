@@ -74,7 +74,7 @@ _Advanced Science_. [[link]](https://advanced.onlinelibrary.wiley.com/doi/10.100
 - **<u>Zhe Liu#</u>**, Yihang Bao#, Wenhao Li#, Chengyi Yang, Weidi Wang, Wenxiang Cai, Guan Ning Lin\*. Benchmarking the coding strategies of non-coding mutations on sequence-based downstream tasks with machine learning.  
 _2025 Asia Pacific Bioinformatics Conference (APBC 2025), accepted_. [[link]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v2)
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Hui Jin, Han Wang, Weidi Wang\*, Guan Ning Lin\*. MEMO-Stab2: Multi-View Sequence-Based Deep Learning Framework for Predicting Mutation-Induced Stability Changes in Transmembrane Proteins.  
-_Journal of Chemical Information and Modeling, accepted_. (2025 IF=5.3)
+_Journal of Chemical Information and Modeling_. [[link]](https://doi.org/10.1021/acs.jcim.5c01774) (2025 IF=5.3)
 - Weihao Li#, **<u>Zhe Liu#</u>**, Yihang Bao, Shunying Yu, Huafang Li, Guan Ning Lin\*. Mutation-Drug Sensitivity Data Resource (MDSDR): A Comprehensive Resource for Studying and Addressing Drug Resistance.  
 _Frontiers of Computer Science_. [[link]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40390-1)) (2025 IF=4.6)
 
