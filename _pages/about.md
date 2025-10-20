@@ -82,9 +82,9 @@ _Frontiers of Computer Science_. (2025 IF=4.6)[[Paper]](https://journal.hep.com.
 - **<u>Zhe Liu#</u>**, Yihang Bao#, Shuai Zeng#, Ruiyi Qian, Miaohan Deng, An Gu, Jianye Li, Weidi Wang, Wenxiang Cai, Wenhao Li, Han Wang\*, Dong Xu\*, Guan Ning Lin\*. Large Language Models in Psychiatry: Current Applications, Limitations, and Future Scope.  
 _Big Data Mining and Analytics_. (2024 IF=7.7)[[Paper]](https://www.sciopen.com/article/10.26599/BDMA.2024.9020046)[[Code]](https://github.com/RoarBoil/Awesome-Large-Language-Model-in-Psychiatry)
 - **<u>Zhe Liu#</u>**, Yihang Bao#, Wenhaoi Li#, Jinwei Wu, Weidi Wang\*, Guan Ning Lin\*. MEMO-stab: Sequence-based Annotation of Mutation Effect on Transmembrane Protein Stability with Protein Language Model-Driven Machine Learning.  
-_2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)_.[[Paper]](https://ieeexplore.ieee.org/abstract/document/10821753/) [[Code]](https://github.com/Liuzhe30/MEMO-stab)
+_2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)_.[[Paper]](https://ieeexplore.ieee.org/abstract/document/10821753/)[[Code]](https://github.com/Liuzhe30/MEMO-stab)
 - **<u>Zhe Liu#</u>**, Weidi Wang#, Mingxia Zhai#, An Gu, Shunying Yu\*, Guan Ning Lin\*. Predicting Psychosis Progression in Clinical High-Risk Individuals Using Peripheral Transcriptomic and Epigenomic Profiles: A Machine Learning Approach.  
-_2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)_.[[Paper]](https://ieeexplore.ieee.org/document/10822321) [[Code]](https://github.com/Liuzhe30/CHRP)
+_2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)_.[[Paper]](https://ieeexplore.ieee.org/document/10822321)[[Code]](https://github.com/Liuzhe30/CHRP)
 - Weidi Wang#, **<u>Zhe Liu#</u>**, Daihui Peng, Guan Ning Lin\*, Zhen Wang\*. Genomic Insights into Genes Expressed Specifically During Infancy Highlight Their Dominant Influence on the Neuronal System.  
 _BMC Genomics_. (2024 IF=3.5)[[Paper]](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-024-10911-0)
 
@@ -110,7 +110,7 @@ _Frontiers in Bioengineering and Biotechnology_. (2021 IF=5.89)[[Paper]](https:/
 - **<u>Zhe Liu</u>**, Yingli Gong, Yuanzhao Guo, Xiao Zhang, Chang Lu, Li Zhang\*, Han Wang\*. TMP-SSurface2: A Novel Deep Learning-Based Surface Accessibility Predictor for Transmembrane Protein Sequence.  
 _Frontiers in Genetics_. (2021 IF=4.599)[[Paper]](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2021.656140/full) [[Code]](https://github.com/Liuzhe30/TMP-SSurface-2.0)
 - Weihao Pan#, **<u>Zhe Liu#</u>**, Guan Ning Lin\*. ASW-Net: A Deep Learning-based Tool for Cell Nucleus Segmentation of Fluorescence Microscopy.  
-_10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2021)_. [[Paper]](https://dl.acm.org/doi/10.1145/3498731.3498734)[[Code]](https://github.com/Liuzhe30/ASW-Net)
+_10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2021)_. [[Paper]](https://dl.acm.org/doi/10.1145/3498731.3498734) [[Code]](https://github.com/Liuzhe30/ASW-Net)
 
 # 🎖 Honors and Awards
 - 2025 Outstanding Graduate of Shanghai Jiao Tong University
