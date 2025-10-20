@@ -62,9 +62,9 @@ Academic Advisor: [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm)
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. Automating RNA-Ligand Interaction Modeling via a Self-Improving LLM Agent.  
 _BiorXiv preprint_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Memo-Patho: Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
-_BiorXiv preprint_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.18.654712v1)
+_BiorXiv preprint_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.18.654712v1)[[Code]](https://github.com/RoarBoil/Memo-Patho)
 - Zhejun Kuang#, Yunkai Li#, **<u>Zhe Liu#</u>**, Jian Zhao, Lijuan Shi, Akira-Kawai, Han Wang\*. Trends Assessment of the Genetic Mutation Induced Protein-Protein Interaction Variation via Protein Large Language Driven Method.  
-_BiorXiv preprint_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.23.655070v1)
+_BiorXiv preprint_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.23.655070v1)[[Code]](https://github.com/NENUBioCompute/TAPPI)
 
 ## 2025
 - **<u>Zhe Liu</u>**, Yihang Bao, An Gu, Weichen Song, Guan Ning Lin\*. Predicting the regulatory impacts of non-coding variants on gene expression through epigenomic integration across tissues and single-cell landscapes.  
@@ -74,13 +74,13 @@ _Advanced Science_. (2025 IF=14.1)[[Paper]](https://advanced.onlinelibrary.wiley
 - **<u>Zhe Liu#</u>**, Yihang Bao#, Wenhao Li#, Chengyi Yang, Weidi Wang, Wenxiang Cai, Guan Ning Lin\*. Benchmarking the coding strategies of non-coding mutations on sequence-based downstream tasks with machine learning.  
 _2025 Asia Pacific Bioinformatics Conference (APBC 2025), accepted_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v2)[[Code]](https://github.com/Liuzhe30/DNAMutBenchMark)
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Hui Jin, Han Wang, Weidi Wang\*, Guan Ning Lin\*. MEMO-Stab2: Multi-View Sequence-Based Deep Learning Framework for Predicting Mutation-Induced Stability Changes in Transmembrane Proteins.  
-_Journal of Chemical Information and Modeling_. (2025 IF=5.3)[[Paper]](https://doi.org/10.1021/acs.jcim.5c01774) 
+_Journal of Chemical Information and Modeling_. (2025 IF=5.3)[[Paper]](https://doi.org/10.1021/acs.jcim.5c01774)[[Code]](https://github.com/RoarBoil/MEMO-Stab2)
 - Weihao Li#, **<u>Zhe Liu#</u>**, Yihang Bao, Shunying Yu, Huafang Li, Guan Ning Lin\*. Mutation-Drug Sensitivity Data Resource (MDSDR): A Comprehensive Resource for Studying and Addressing Drug Resistance.  
 _Frontiers of Computer Science_. (2025 IF=4.6)[[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40390-1) 
 
 ## 2024
 - **<u>Zhe Liu#</u>**, Yihang Bao#, Shuai Zeng#, Ruiyi Qian, Miaohan Deng, An Gu, Jianye Li, Weidi Wang, Wenxiang Cai, Wenhao Li, Han Wang\*, Dong Xu\*, Guan Ning Lin\*. Large Language Models in Psychiatry: Current Applications, Limitations, and Future Scope.  
-_Big Data Mining and Analytics_. (2024 IF=7.7)[[Paper]](https://www.sciopen.com/article/10.26599/BDMA.2024.9020046) 
+_Big Data Mining and Analytics_. (2024 IF=7.7)[[Paper]](https://www.sciopen.com/article/10.26599/BDMA.2024.9020046)[[Code]](https://github.com/RoarBoil/Awesome-Large-Language-Model-in-Psychiatry)
 - **<u>Zhe Liu#</u>**, Yihang Bao#, Wenhaoi Li#, Jinwei Wu, Weidi Wang\*, Guan Ning Lin\*. MEMO-stab: Sequence-based Annotation of Mutation Effect on Transmembrane Protein Stability with Protein Language Model-Driven Machine Learning.  
 _2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)_.[[Paper]](https://ieeexplore.ieee.org/abstract/document/10821753/) [[Code]](https://github.com/Liuzhe30/MEMO-stab)
 - **<u>Zhe Liu#</u>**, Weidi Wang#, Mingxia Zhai#, An Gu, Shunying Yu\*, Guan Ning Lin\*. Predicting Psychosis Progression in Clinical High-Risk Individuals Using Peripheral Transcriptomic and Epigenomic Profiles: A Machine Learning Approach.  
@@ -102,7 +102,7 @@ _Biology_. (2022 IF=5.168)[[Paper]](https://www.mdpi.com/2079-7737/11/10/1454/ht
 - **<u>Zhe Liu#</u>**, Weihao Pan#, Xuyang Zhen, Jisheng Liang, Wenxiang Cai, Guan Ning Lin\*. Will AlphaFold2 be Helpful in Improving the Accuracy of Single-sequence PPI Site Prediction?  
 _10th International Conference on Bioinformatics and Computational Biology (ICBCB 2022)_. [[Paper]](https://ieeexplore.ieee.org/document/9802490)[[Code]](https://github.com/Liuzhe30/space-hhblits)
 - Weihao Pan#, **<u>Zhe Liu#</u>**, Weichen Song, Xuyang Zhen, Kai Yuan, Fei Xu\*, Guan Ning Lin\*. An Integrative Segmentation Framework for Cell Nucleus of Fluorescence Microscopy.  
-_Genes_. (2022 IF=4.141)[[Paper]](https://www.mdpi.com/2073-4425/13/3/431/htm) 
+_Genes_. (2022 IF=4.141)[[Paper]](https://www.mdpi.com/2073-4425/13/3/431/htm)[[Code]](https://github.com/Liuzhe30/ASW-Net)
 
 ## 2021
 - **<u>Zhe Liu</u>**, Yingli Gong, Yihang Bao, Yuanzhao Guo, Han Wang\*, Guan Ning Lin\*. TMPSS: A Deep Learning-Based Predictor for Secondary Structure and Topology Structure Prediction of Alpha-helical Transmembrane Proteins.  
@@ -110,7 +110,7 @@ _Frontiers in Bioengineering and Biotechnology_. (2021 IF=5.89)[[Paper]](https:/
 - **<u>Zhe Liu</u>**, Yingli Gong, Yuanzhao Guo, Xiao Zhang, Chang Lu, Li Zhang\*, Han Wang\*. TMP-SSurface2: A Novel Deep Learning-Based Surface Accessibility Predictor for Transmembrane Protein Sequence.  
 _Frontiers in Genetics_. (2021 IF=4.599)[[Paper]](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2021.656140/full) [[Code]](https://github.com/Liuzhe30/TMP-SSurface-2.0)
 - Weihao Pan#, **<u>Zhe Liu#</u>**, Guan Ning Lin\*. ASW-Net: A Deep Learning-based Tool for Cell Nucleus Segmentation of Fluorescence Microscopy.  
-_10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2021)_. [[Paper]](https://dl.acm.org/doi/10.1145/3498731.3498734)
+_10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2021)_. [[Paper]](https://dl.acm.org/doi/10.1145/3498731.3498734)[[Code]](https://github.com/Liuzhe30/ASW-Net)
 
 # 🎖 Honors and Awards
 - 2025 Outstanding Graduate of Shanghai Jiao Tong University
