@@ -58,11 +58,15 @@ Academic Advisor: [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm)
 
 
 # 📝 Publications
-## Preprints
+## Preprints and Ongoing Papers
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. Automating RNA-Ligand Interaction Modeling via a Self-Improving LLM Agent.  
 _BiorXiv preprint_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
+- Huijin#, Yihang Bao#, Jingtong Zhao, Weidi Wang, **<u>Zhe Liu*</u>**, Guan Ning Lin\*. LuminRX: An Efficient Multi-Task Deep Learning Framework Using Pathogenicity Signals to Guide and Explain Protein Mutation-Driven Drug Resistance.  
+_In preparation_.[[Code]](https://github.com/RoarBoil/LuminRX)
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Memo-Patho: Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
 _BiorXiv preprint_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.18.654712v1)[[Code]](https://github.com/RoarBoil/Memo-Patho)
+- Weihao Li#, **<u>Zhe Liu#</u>**, Guan Ning Lin\*. Macon: Enhance Protein Mutation Representation using Contrastive Learning with Effect Prediction on Protein–protein Interactions.  
+_In revision_. [[Code]](https://github.com/queen0401/Macon)
 - Zhejun Kuang#, Yunkai Li#, **<u>Zhe Liu#</u>**, Jian Zhao, Lijuan Shi, Akira-Kawai, Han Wang\*. Trends Assessment of the Genetic Mutation Induced Protein-Protein Interaction Variation via Protein Large Language Driven Method.  
 _BiorXiv preprint_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.23.655070v1)[[Code]](https://github.com/NENUBioCompute/TAPPI)
 
@@ -76,7 +80,7 @@ _2025 Asia Pacific Bioinformatics Conference (APBC 2025), accepted_. [[Paper]](h
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Hui Jin, Han Wang, Weidi Wang\*, Guan Ning Lin\*. MEMO-Stab2: Multi-View Sequence-Based Deep Learning Framework for Predicting Mutation-Induced Stability Changes in Transmembrane Proteins.  
 _Journal of Chemical Information and Modeling_. (2025 IF=5.3)[[Paper]](https://doi.org/10.1021/acs.jcim.5c01774)[[Code]](https://github.com/RoarBoil/MEMO-Stab2)
 - Weihao Li#, **<u>Zhe Liu#</u>**, Yihang Bao, Shunying Yu, Huafang Li, Guan Ning Lin\*. Mutation-Drug Sensitivity Data Resource (MDSDR): A Comprehensive Resource for Studying and Addressing Drug Resistance.  
-_Frontiers of Computer Science_. (2025 IF=4.6)[[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40390-1) 
+_Frontiers of Computer Science_. (2025 IF=4.6)[[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40390-1) [[Code]](https://github.com/queen0401/MDSDR)
 
 ## 2024
 - **<u>Zhe Liu#</u>**, Yihang Bao#, Shuai Zeng#, Ruiyi Qian, Miaohan Deng, An Gu, Jianye Li, Weidi Wang, Wenxiang Cai, Wenhao Li, Han Wang\*, Dong Xu\*, Guan Ning Lin\*. Large Language Models in Psychiatry: Current Applications, Limitations, and Future Scope.  
