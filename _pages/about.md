@@ -65,6 +65,8 @@ _BiorXiv preprint_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11
 _In preparation_.[[Code]](https://github.com/RoarBoil/LuminRX)
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Memo-Patho: Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
 _BiorXiv preprint_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.18.654712v1)[[Code]](https://github.com/RoarBoil/Memo-Patho)
+- Weidi Wang#, **<u>Zhe Liu#</u>**, Zhirou Wen#, Chengyi Yang, Yihang Bao, Shunying Yu\*, Guan Ning Lin\*.Dissecting Schizophrenia Susceptibility and Resilience Through Immune-Related Transcriptomic and Epigenomic Signatures in Clinical High-Risk for Psychosis.  
+_In preparation_.[[Code]](https://github.com/Liuzhe30/CHRP)
 - Weihao Li#, **<u>Zhe Liu#</u>**, Guan Ning Lin\*. Macon: Enhance Protein Mutation Representation using Contrastive Learning with Effect Prediction on Protein–protein Interactions.  
 _In revision_. [[Code]](https://github.com/queen0401/Macon)
 - Zhejun Kuang#, Yunkai Li#, **<u>Zhe Liu#</u>**, Jian Zhao, Lijuan Shi, Akira-Kawai, Han Wang\*. Trends Assessment of the Genetic Mutation Induced Protein-Protein Interaction Variation via Protein Large Language Driven Method.  
