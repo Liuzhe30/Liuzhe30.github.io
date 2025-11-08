@@ -1,4 +1,4 @@
----
+<img width="1629" height="1089" alt="image" src="https://github.com/user-attachments/assets/c76856a3-a27b-4d80-8a03-e95384127dc2" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -59,6 +59,8 @@ Academic Advisor: [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm)
 
 # 📝 Publications
 ## Preprints and Ongoing Papers
+- Li Zhang, Shengyang Zhou, AiJie Yang, MengJia Su, Han Wang\*, **<u>Zhe Liu*</u>**. DeepKEGG-Agent: A Dialogue-Driven LLM-based Framework for Automated Multi-Omics Modeling in Cancer Outcome Prediction.  
+_In preparation_.[[Code]](https://github.com/623680841/DeepKEGGAgent/blob/main/deepkegg_core/dk_core.py)
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. Automating RNA-Ligand Interaction Modeling via a Self-Improving LLM Agent.  
 _BiorXiv preprint_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
 - Huijin#, Yihang Bao#, Jingtong Zhao, Weidi Wang, **<u>Zhe Liu*</u>**, Guan Ning Lin\*. LuminRX: An Efficient Multi-Task Deep Learning Framework Using Pathogenicity Signals to Guide and Explain Protein Mutation-Driven Drug Resistance.  
@@ -156,7 +158,8 @@ _10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2
 
 # 👔 Teaching
 ### East China University of Science and Technology
-- Fall 2025: **<u>Principles and Practices of Large Language Models</u>** (Co-Instructor)  
+- Fall 2025: **<u>Principles and Practices of Large Language Models</u>**
+- Spring 2026: **<u>Data Mining</u>**
 
 ### Shanghai Jiao Tong University
 - Spring 2021 & 2022: **<u>Fundamentals of Biomedical Statistics</u>** (Teaching Assistant)
