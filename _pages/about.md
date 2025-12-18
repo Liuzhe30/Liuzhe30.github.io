@@ -131,8 +131,9 @@ _10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2
 - 2017 China National Scholarship (for Undergraduates)
 
 # 😄 Academic Activities
-- **2025.12** BIBM 2025 - IEEE International Conference on Bioinformatics and Biomedicine, PC member
-  - **Invited Talk** of workshop "AI-Driven Multimodal Approaches for Brain Disease Diagnosis and Treatment 
+- **2025.12** BIBM 2025 - IEEE International Conference on Bioinformatics and Biomedicine
+  - **PC member of BIBM 2025**
+  - **Invited Talk** and **PC member** of the workshop "AI-Driven Multimodal Approaches for Brain Disease Diagnosis and Treatment 
 - **2025.09** APBC 2025 - 23rd Asia Pacific Bioinformatics Conference 
   - Regular Paper, **Oral Presentation**  
 - **2025.08** CBC 2025 - 10th CCF Bioinformatics Conference  
