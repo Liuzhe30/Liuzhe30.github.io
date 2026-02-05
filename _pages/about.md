@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I’m **Zhe Liu (刘喆)**.  
 I’m currently a Lecturer in the Department of Computer Science and Engineering, East China University of Science and Technology.    
-I received my Ph.D. in Biomedical Engineering at Shanghai Jiao Tong University (SJTU), supervised by [Prof. Guan Ning Lin](https://bme.sjtu.edu.cn/En/FacultyDetail/34), also with academic guidance from [Prof. Dong Xu](https://engineering.missouri.edu/faculty/dong-xu/). Prior to that, I received my B.Sc. in Computer Science from Northeast Normal University (NENU) in 2020, advised by [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm).  
+I received my Ph.D. in Biomedical Engineering at Shanghai Jiao Tong University (SJTU), supervised by [Prof. Guan Ning Lin](https://bme.sjtu.edu.cn/En/FacultyDetail/34), also with academic guidance from [Prof. Dong Xu](https://precisionhealth.missouri.edu/people/dong-xu-phd). Prior to that, I received my B.Sc. in Computer Science from Northeast Normal University (NENU) in 2020, advised by [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm).  
   
 My research focuses on **AI for Science**, aiming to bridge computation and biomedicine through the development of **interpretable, intelligent, and biologically meaningful models**. Current interests include:  
   
@@ -59,18 +59,18 @@ Academic Advisor: [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm)
 
 # 📝 Publications
 ## Preprints and Ongoing Papers
+- Zhejun Kuang#, Yunkai Li#, **<u>Zhe Liu#</u>**, Jian Zhao, Lijuan Shi, Akira-Kawai, Han Wang\*. Trends Assessment of the Genetic Mutation Induced Protein-Protein Interaction Variation via Protein Large Language Driven Method.  
+_In revision, Nature Communications (2025 IF=15.7)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.23.655070v1)[[Code]](https://github.com/NENUBioCompute/TAPPI)
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. Automating RNA-Ligand Interaction Modeling via a Self-Improving LLM Agent.  
-_BiorXiv preprint_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
+_In revision, Frontiers of Computer Science (2025 IF=4.6)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
+- Weihao Li#, **<u>Zhe Liu#</u>**, Guan Ning Lin\*. Macon: Enhance Protein Mutation Representation using Contrastive Learning with Effect Prediction on Protein–protein Interactions.  
+_In revision, BMC bioinformatics (2025 IF=3.3)_. [[Code]](https://github.com/queen0401/Macon)
 - Huijin#, Yihang Bao#, Jingtong Zhao, Weidi Wang, **<u>Zhe Liu*</u>**, Guan Ning Lin\*. LuminRX: An Efficient Multi-Task Deep Learning Framework Using Pathogenicity Signals to Guide and Explain Protein Mutation-Driven Drug Resistance.  
 _In preparation_.[[Code]](https://github.com/RoarBoil/LuminRX)
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Memo-Patho: Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
 _BiorXiv preprint_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.18.654712v1)[[Code]](https://github.com/RoarBoil/Memo-Patho)
 - Weidi Wang#, **<u>Zhe Liu#</u>**, Zhirou Wen#, Chengyi Yang, Yihang Bao, Shunying Yu\*, Guan Ning Lin\*.Dissecting Schizophrenia Susceptibility and Resilience Through Immune-Related Transcriptomic and Epigenomic Signatures in Clinical High-Risk for Psychosis.  
 _In preparation_.[[Code]](https://github.com/Liuzhe30/CHRP)
-- Weihao Li#, **<u>Zhe Liu#</u>**, Guan Ning Lin\*. Macon: Enhance Protein Mutation Representation using Contrastive Learning with Effect Prediction on Protein–protein Interactions.  
-_In revision, BMC bioinformatics (2025 IF=3.3)_. [[Code]](https://github.com/queen0401/Macon)
-- Zhejun Kuang#, Yunkai Li#, **<u>Zhe Liu#</u>**, Jian Zhao, Lijuan Shi, Akira-Kawai, Han Wang\*. Trends Assessment of the Genetic Mutation Induced Protein-Protein Interaction Variation via Protein Large Language Driven Method.  
-_In revision, Nature Communications (2025 IF=15.7)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.23.655070v1)[[Code]](https://github.com/NENUBioCompute/TAPPI)
 
 ## 2025
 - **<u>Zhe Liu</u>**, Yihang Bao, An Gu, Weichen Song, Guan Ning Lin\*. Predicting the regulatory impacts of non-coding variants on gene expression through epigenomic integration across tissues and single-cell landscapes.  
