@@ -21,22 +21,24 @@ Hi! I’m **Zhe Liu (刘喆)**.
 I’m currently a Lecturer in the Department of Computer Science and Engineering, East China University of Science and Technology.    
 I received my Ph.D. in Biomedical Engineering at Shanghai Jiao Tong University (SJTU), supervised by [Prof. Guan Ning Lin](https://bme.sjtu.edu.cn/En/FacultyDetail/34), also with academic guidance from [Prof. Dong Xu](https://precisionhealth.missouri.edu/people/dong-xu-phd). Prior to that, I received my B.Sc. in Computer Science from Northeast Normal University (NENU) in 2020, advised by [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm).  
   
-My research focuses on **AI for Science**, aiming to bridge computation and biomedicine through the development of **interpretable, intelligent, and biologically meaningful models**. Current interests include:  
+My research focuses on **AI for Science**, aiming to bridge computation and biomedicine through the development of **interpretable, intelligent, and biologically meaningful models** and **embodied AI agents for biomedical discovery and automated experimentation**. Current interests include:  
   
 - **Variant effect prediction**  
-- **Protein structure and interaction modeling**  
-- **AI applications in Psychiatry**  
+- **Multi-omics and multimodal modeling**  
+- **AI applications in Psychiatry**
+- **Embodied AI for biomedicine**
 
 💌 *I warmly welcome collaboration opportunities and invite students interested in my research to get in touch!*
 
 ---
 
 大家好，我是**刘喆**，现任**华东理工大学 信息科学与工程学院 计算机系讲师**，从事教学科研工作。  
-我的研究方向为**AI for Science**，致力于通过构建**可解释、智能且具有生物学意义的模型**，推动计算科学与生物医学的交叉发展。研究兴趣包括：
+我的研究方向为**AI for Science**，致力于通过构建**可解释、智能且具有生物学意义的模型**，以及**面向生物医学发现与自动化实验的具身智能体**，推动计算科学与生物医学的交叉发展。研究兴趣包括：
 
 - **突变效应预测**
-- **蛋白质结构与相互作用建模**
+- **多组学与多模态建模**
 - **人工智能在精神病学中的应用**
+- **生物医学具身智能**
 
 💌 *欢迎科研合作，也欢迎对我的研究方向感兴趣的同学联系我！*  
 
