@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhe Liu (刘喆)"
-description              : "Department of Computer Science and Engineering, East China University of Science and Technology"
+description              : "Department of Computer Science and Engineering, East China University of Science and Technology<br>华东理工大学 信息科学与技术学院"
 repository               : "Liuzhe30/Liuzhe30.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhe Liu (刘喆)"
   avatar           : "images/momo.png"
-  bio              : "Lecturer in Computer Science\n讲师|硕士生导师"
+  bio              : "Lecturer in Computer Science<br>讲师 | 硕士生导师"
   location         : "ECUST | 华东理工大学"
   employer         : "Shanghai, China"
   pubmed           : 
