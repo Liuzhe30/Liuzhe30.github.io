@@ -63,6 +63,8 @@ Academic Advisor: [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm)
 ## Preprints and Ongoing Papers
 - Zhejun Kuang#, Yunkai Li#, **<u>Zhe Liu#</u>**, Jian Zhao, Lijuan Shi, Akira-Kawai, Han Wang\*. Trends Assessment of the Genetic Mutation Induced Protein-Protein Interaction Variation via Protein Large Language Driven Method.  
 _In revision, Nature Communications (2025 IF=15.7)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.23.655070v1)[[Code]](https://github.com/NENUBioCompute/TAPPI)
+- Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.
+_In revision, Briefing in Bioinformatics (2025 IF=7.7)_.[[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.18.654712v1)
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. Automating RNA-Ligand Interaction Modeling via a Self-Improving LLM Agent.  
 _In revision, Frontiers of Computer Science (2025 IF=4.6)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
 - Weihao Li#, **<u>Zhe Liu#</u>**, Guan Ning Lin\*. Macon: Enhance Protein Mutation Representation using Contrastive Learning with Effect Prediction on Protein–protein Interactions.  
@@ -133,6 +135,8 @@ _10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2
 - 2017 China National Scholarship (for Undergraduates)
 
 # 😄 Academic Activities
+- **2026.03** ICBCB 2026 – 14th International Conference on Bioinformatics and Computational Biology
+  - Regular Paper, **Oral Presentation** 
 - **2025.12** BIBM 2025 - IEEE International Conference on Bioinformatics and Biomedicine
   - **PC member of BIBM 2025**
   - **Invited Talk** and **PC member** of the workshop "AI-Driven Multimodal Approaches for Brain Disease Diagnosis and Treatment 
