@@ -177,6 +177,7 @@ _10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2
 ### Shanghai Jiao Tong University
 - Spring 2021 & 2022: **<u>Fundamentals of Biomedical Statistics</u>** (Teaching Assistant)
 
+<div>
   <div style="display: flex; justify-content: center;">
     <div id="clustrmaps-widget" style="max-width: 320px; width: 100%;">
       <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=-Ga_GRxZF5kG06EtHItEuk_dWTxBYxYP04a4nAkcJk0&cl=ffffff&w=a"></script>
