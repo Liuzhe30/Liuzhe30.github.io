@@ -60,7 +60,7 @@ Academic Advisor: [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm)
 
 
 # 📝 Publications
-* Corresponding author. # Contributed equally.  
+\* Corresponding author. # Contributed equally.  
 ## Preprints and Ongoing Papers
 - Zhejun Kuang#, Yunkai Li#, **<u>Zhe Liu#</u>**, Jian Zhao\*, Lijuan Shi, Akira-Kawai, Han Wang\*. Trends Assessment of the Genetic Mutation Induced Protein-Protein Interaction Variation via Protein Large Language Driven Method.  
 _In revision, Nature Communications (2025 IF=15.7)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.23.655070v1)[[Code]](https://github.com/NENUBioCompute/TAPPI)
