@@ -77,7 +77,7 @@ _In preparation_.[[Code]](https://github.com/Liuzhe30/CHRP)
 
 ## 2026
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. A Dialogue-Guided Workflow for Automated RNA Region–Ligand Modeling  
-_Frontiers of Computer Science (2026 IF=4.6)[[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-60013-1)[[Code]](https://github.com/kai3171/LargeR)
+_Frontiers of Computer Science_. (2026 IF=4.6)[[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-60013-1)[[Code]](https://github.com/kai3171/LargeR)
 - **<u>Zhe Liu</u>**, Weidi Wang\*. DyTAC: A Digital Twin Framework for Modeling Chromatin Accessibility and 3D Genome Dynamics during T-cell Activation.  
 _2026 14th International Conference on Bioinformatics and Computational Biology, accepted_.[[Code]](https://github.com/Liuzhe30/DyTAC)
 
