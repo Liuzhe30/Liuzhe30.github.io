@@ -66,17 +66,19 @@ Academic Advisor: [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm)
 _In revision, Nature Communications (2025 IF=15.7)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.23.655070v1)[[Code]](https://github.com/NENUBioCompute/TAPPI)
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
 _In revision, Briefing in Bioinformatics (2025 IF=7.7)_.[[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.18.654712v1)[[Code]](https://github.com/RoarBoil/Memo-Patho)
-- Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. An Adaptive LLM-Driven AI Agent for Modeling RNA Region-Ligand Interaction via Dialogue-Guided Generation of Machine Learning Workflows  
+- Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. An Adaptive LLM-Driven AI Agent for Modeling RNA Region-Ligand Interaction via Dialogue-Guided Generation of Machine Learning Workflows.  
 _In revision, Health Information Science and Systems (2025 IF=3.4)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
-- Weihao Li#, **<u>Zhe Liu#</u>**, Guan Ning Lin\*. Macon: Enhance Protein Mutation Representation using Contrastive Learning with Effect Prediction on Protein–protein Interactions.  
-_In revision, BMC bioinformatics (2025 IF=3.3)_. [[Code]](https://github.com/queen0401/Macon)
+- Zhaohui Du, Zhe Wang\*, Hongmei Fei, Xiwen Cao, Ting Xiao, Qi Wang, Huanbo Jin, Jiaming Gu, Quan Lu, **<u>Zhe Liu*</u>**. BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation.  
+_In preparation_.[[Code]](https://github.com/no-guess/BioProVLA-Agent)
+- Hui Jin,**<u>Zhe Liu*</u>**, Zhuopeng Jia\*. EnzyDiff: Modeling mutation-induced enzyme activity distributions using diffusion model.  
+_In preparation_.[[Code]](https://github.com/Liuzhe30/EnzyDiff)
 - Huijin#, Yihang Bao#, Jingtong Zhao, Weidi Wang, **<u>Zhe Liu*</u>**, Guan Ning Lin\*. LuminRX: An Efficient Multi-Task Deep Learning Framework Using Pathogenicity Signals to Guide and Explain Protein Mutation-Driven Drug Resistance.  
 _In preparation_.[[Code]](https://github.com/RoarBoil/LuminRX)
 - Weidi Wang#, **<u>Zhe Liu#</u>**, Zhirou Wen#, Chengyi Yang, Yihang Bao, Shunying Yu\*, Guan Ning Lin\*.Dissecting Schizophrenia Susceptibility and Resilience Through Immune-Related Transcriptomic and Epigenomic Signatures in Clinical High-Risk for Psychosis.  
 _In preparation_.[[Code]](https://github.com/Liuzhe30/CHRP)
 
 ## 2026
-- Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. A Dialogue-Guided Workflow for Automated RNA Region–Ligand Modeling  
+- Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. A Dialogue-Guided Workflow for Automated RNA Region–Ligand Modeling.  
 _Frontiers of Computer Science_. (2026 IF=4.6)[[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-60013-1)[[Code]](https://github.com/kai3171/LargeR)
 - **<u>Zhe Liu</u>**, Weidi Wang\*. DyTAC: A Digital Twin Framework for Modeling Chromatin Accessibility and 3D Genome Dynamics during T-cell Activation.  
 _2026 14th International Conference on Bioinformatics and Computational Biology, accepted_.[[Code]](https://github.com/Liuzhe30/DyTAC)
