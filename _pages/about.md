@@ -70,6 +70,8 @@ _In revision, Briefing in Bioinformatics (2025 IF=7.7)_.[[Paper]](https://www.bi
 _In revision, Health Information Science and Systems (2025 IF=3.4)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
 - Zhaohui Du, Zhe Wang\*, Hongmei Fei, Xiwen Cao, Ting Xiao, Qi Wang, Huanbo Jin, Jiaming Gu, Quan Lu, **<u>Zhe Liu*</u>**. BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation.  
 _In preparation_.[[Code]](https://github.com/no-guess/BioProVLA-Agent)
+- **<u>Zhe Liu</u>**, Renchong Tian, Zhe Wang\*. Efficient dataset-adaptive foundation modeling for single-cell analysis with scLinformer.  
+_In preparation_.[[Code]](https://github.com/TRCDHH/scLinformer)
 - Hui Jin, **<u>Zhe Liu*</u>**, Zhuopeng Jia\*. EnzyDiff: Modeling mutation-induced enzyme activity distributions using diffusion model.  
 _In preparation_.[[Code]](https://github.com/Liuzhe30/EnzyDiff)
 - Huijin#, Yihang Bao#, Jingtong Zhao, Weidi Wang, **<u>Zhe Liu*</u>**, Guan Ning Lin\*. LuminRX: An Efficient Multi-Task Deep Learning Framework Using Pathogenicity Signals to Guide and Explain Protein Mutation-Driven Drug Resistance.  
