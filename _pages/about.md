@@ -69,7 +69,7 @@ _In revision, Briefing in Bioinformatics (2025 IF=7.7)_.[[Paper]](https://www.bi
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. An Adaptive LLM-Driven AI Agent for Modeling RNA Region-Ligand Interaction via Dialogue-Guided Generation of Machine Learning Workflows.  
 _In revision, Health Information Science and Systems (2025 IF=3.4)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
 - Zhaohui Du, Zhe Wang\*, Hongmei Fei, Xiwen Cao, Ting Xiao, Qi Wang, Huanbo Jin, Jiaming Gu, Quan Lu, **<u>Zhe Liu*</u>**. BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation.  
-_In preparation_.[Paper](https://arxiv.org/abs/2605.07306)[[Code]](https://github.com/no-guess/BioProVLA-Agent)
+_In preparation_.[[Paper]](https://arxiv.org/abs/2605.07306)[[Code]](https://github.com/no-guess/BioProVLA-Agent)
 - **<u>Zhe Liu</u>**, Renchong Tian, Zhe Wang\*. Efficient dataset-adaptive foundation modeling for single-cell analysis with scLinformer.  
 _In preparation_.[[Code]](https://github.com/TRCDHH/scLinformer)
 - Hui Jin, **<u>Zhe Liu*</u>**, Zhuopeng Jia\*. EnzyDiff: Modeling mutation-induced enzyme activity distributions using diffusion model.  
