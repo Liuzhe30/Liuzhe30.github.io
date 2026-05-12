@@ -72,6 +72,8 @@ _In revision, Health Information Science and Systems (2025 IF=3.4)_. [[Paper]](h
 _In preparation_.[[Paper]](https://arxiv.org/abs/2605.07306)[[Code]](https://github.com/no-guess/BioProVLA-Agent)
 - **<u>Zhe Liu</u>**, Renchong Tian, Zhe Wang\*. Efficient dataset-adaptive foundation modeling for single-cell analysis with scLinformer.  
 _In preparation_.[[Code]](https://github.com/TRCDHH/scLinformer)
+- Xiwen Cao#, Dake Shi#, Zhaohui Du, Jiaxuan Zhou, Zhe Wang\*, **<u>Zhe Liu*</u>**, Qi Wang\*. An interpretable and interactive clinical AI agent for personalized anti-infective decision support in carbapenem-resistant Gram-negative bacterial infection.  
+_In preparation_.[[Code]](https://github.com/cccccxw0909/Dr.BUG)
 - Hui Jin, **<u>Zhe Liu*</u>**, Zhuopeng Jia\*. EnzyDiff: Modeling mutation-induced enzyme activity distributions using diffusion model.  
 _In preparation_.[[Code]](https://github.com/Liuzhe30/EnzyDiff)
 - Huijin#, Yihang Bao#, Jingtong Zhao, Weidi Wang, **<u>Zhe Liu*</u>**, Guan Ning Lin\*. LuminRX: An Efficient Multi-Task Deep Learning Framework Using Pathogenicity Signals to Guide and Explain Protein Mutation-Driven Drug Resistance.  
