@@ -95,7 +95,7 @@ _Advanced Science_. (2025 IF=14.1)[[Paper]](https://advanced.onlinelibrary.wiley
 - **<u>Zhe Liu#</u>**, Yihang Bao#, Wenhao Li#, Chengyi Yang, Weidi Wang, Wenxiang Cai, Guan Ning Lin\*. Benchmarking the coding strategies of non-coding mutations on sequence-based downstream tasks with machine learning.  
 _2025 Asia Pacific Bioinformatics Conference (APBC 2025), accepted_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v2)[[Code]](https://github.com/Liuzhe30/DNAMutBenchMark)
 - Li Zhang, Shengyang Zhou, AiJie Yang, MengJia Su, Han Wang\*, **<u>Zhe Liu*</u>**. DeepKEGG-Agent: A Dialogue-Driven LLM-based Framework for Automated Multi-Omics Modeling in Cancer Outcome Prediction.  
-_2025 9th International Conference on Computational Biology and Bioinformatics.[[Paper]](https://dl.acm.org/doi/10.1145/3789938.3789956)[[Code]](https://github.com/623680841/DeepKEGGAgent)
+_2025 9th International Conference on Computational Biology and Bioinformatics_.[[Paper]](https://dl.acm.org/doi/10.1145/3789938.3789956)[[Code]](https://github.com/623680841/DeepKEGGAgent)
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Hui Jin, Han Wang, Weidi Wang\*, Guan Ning Lin\*. MEMO-Stab2: Multi-View Sequence-Based Deep Learning Framework for Predicting Mutation-Induced Stability Changes in Transmembrane Proteins.  
 _Journal of Chemical Information and Modeling_. (2025 IF=5.3)[[Paper]](https://doi.org/10.1021/acs.jcim.5c01774)[[Code]](https://github.com/RoarBoil/MEMO-Stab2)
 - Weihao Li#, **<u>Zhe Liu#</u>**, Yihang Bao, Shunying Yu, Huafang Li, Guan Ning Lin\*. Mutation-Drug Sensitivity Data Resource (MDSDR): A Comprehensive Resource for Studying and Addressing Drug Resistance.  
