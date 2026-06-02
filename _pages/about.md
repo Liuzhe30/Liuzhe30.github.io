@@ -64,8 +64,6 @@ Academic Advisor: [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm)
 ## Preprints and Ongoing Papers
 - Zhejun Kuang#, Yunkai Li#, **<u>Zhe Liu#</u>**, Jian Zhao\*, Lijuan Shi, Akira-Kawai, Han Wang\*. Trends Assessment of the Genetic Mutation Induced Protein-Protein Interaction Variation via Protein Large Language Driven Method.  
 _In revision, Nature Communications (2025 IF=15.7)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.23.655070v1)[[Code]](https://github.com/NENUBioCompute/TAPPI)
-- Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
-_In revision, Briefing in Bioinformatics (2025 IF=7.7)_.[[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.18.654712v1)[[Code]](https://github.com/RoarBoil/Memo-Patho)
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. An Adaptive LLM-Driven AI Agent for Modeling RNA Region-Ligand Interaction via Dialogue-Guided Generation of Machine Learning Workflows.  
 _In revision, Health Information Science and Systems (2025 IF=3.4)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
 - Zhaohui Du, Zhe Wang\*, Hongmei Fei, Xiwen Cao, Ting Xiao, Qi Wang, Huanbo Jin, Jiaming Gu, Quan Lu, **<u>Zhe Liu*</u>**. BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation.  
@@ -86,6 +84,8 @@ _In preparation_.[[Code]](https://github.com/Liuzhe30/CHRP)
 _Frontiers of Computer Science_. (2026 IF=4.6)[[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-60013-1)[[Code]](https://github.com/kai3171/LargeR)
 - **<u>Zhe Liu</u>**, Weidi Wang\*. DyTAC: A Digital Twin Framework for Modeling Chromatin Accessibility and 3D Genome Dynamics during T-cell Activation.  
 _2026 14th International Conference on Bioinformatics and Computational Biology, accepted_.[[Code]](https://github.com/Liuzhe30/DyTAC)
+- Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
+_Briefing in Bioinformatics, accepted (2026 IF=7.7)_.[[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.18.654712v1)[[Code]](https://github.com/RoarBoil/Memo-Patho)
 
 ## 2025
 - **<u>Zhe Liu</u>**, Yihang Bao, An Gu, Weichen Song, Guan Ning Lin\*. Predicting the regulatory impacts of non-coding variants on gene expression through epigenomic integration across tissues and single-cell landscapes.  
@@ -95,7 +95,7 @@ _Advanced Science_. (2025 IF=14.1)[[Paper]](https://advanced.onlinelibrary.wiley
 - **<u>Zhe Liu#</u>**, Yihang Bao#, Wenhao Li#, Chengyi Yang, Weidi Wang, Wenxiang Cai, Guan Ning Lin\*. Benchmarking the coding strategies of non-coding mutations on sequence-based downstream tasks with machine learning.  
 _2025 Asia Pacific Bioinformatics Conference (APBC 2025), accepted_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v2)[[Code]](https://github.com/Liuzhe30/DNAMutBenchMark)
 - Li Zhang, Shengyang Zhou, AiJie Yang, MengJia Su, Han Wang\*, **<u>Zhe Liu*</u>**. DeepKEGG-Agent: A Dialogue-Driven LLM-based Framework for Automated Multi-Omics Modeling in Cancer Outcome Prediction.  
-_2025 9th International Conference on Computational Biology and Bioinformatics, accepted_.[[Code]](https://github.com/623680841/DeepKEGGAgent)
+_2025 9th International Conference on Computational Biology and Bioinformatics.[[Paper]](https://dl.acm.org/doi/10.1145/3789938.3789956)[[Code]](https://github.com/623680841/DeepKEGGAgent)
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Hui Jin, Han Wang, Weidi Wang\*, Guan Ning Lin\*. MEMO-Stab2: Multi-View Sequence-Based Deep Learning Framework for Predicting Mutation-Induced Stability Changes in Transmembrane Proteins.  
 _Journal of Chemical Information and Modeling_. (2025 IF=5.3)[[Paper]](https://doi.org/10.1021/acs.jcim.5c01774)[[Code]](https://github.com/RoarBoil/MEMO-Stab2)
 - Weihao Li#, **<u>Zhe Liu#</u>**, Yihang Bao, Shunying Yu, Huafang Li, Guan Ning Lin\*. Mutation-Drug Sensitivity Data Resource (MDSDR): A Comprehensive Resource for Studying and Addressing Drug Resistance.  
