@@ -44,8 +44,8 @@ My research focuses on **AI for Science**, aiming to bridge computation and biom
 
 # 📂 Professional Experience
 - 2026.06 - Present  
-Visiting Scholar
-AI for Science Center, Shanghai AI Laboratory, Shanghai, China
+Visiting Scholar  
+AI for Science Center, Shanghai AI Laboratory, Shanghai, China  
 Host: [Dongzhan Zhou](https://scholar.google.com/citations?user=Ox6SxpoAAAAJ)
 - 2025.07 - Present  
 Lecturer  
