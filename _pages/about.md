@@ -75,7 +75,7 @@ _In preparation_.[[Paper]](https://arxiv.org/abs/2605.07306)[[Code]](https://git
 - **<u>Zhe Liu</u>**, Renchong Tian, Zhe Wang\*. Efficient dataset-adaptive foundation modeling for single-cell analysis with scLinformer.  
 _In preparation_.[[Code]](https://github.com/TRCDHH/scLinformer)
 - **<u>Zhe Liu</u>#**, Huanbo Jin#, Zhaohui Du#, Zhe Wang\*, He Xu, Peijia Li, Jiaming Gu, Quan Lu, Qi Wang, Bin Ji, Ting Xiao. An Embodied Simulation Platform, Benchmark, and Data-Efficient Augmentation Framework for Wet-Lab Robotics.  
-_In preparation_.[[Code]](https://github.com/hbhuiyou/Pipette)
+_In preparation_.[[Paper]](https://doi.org/10.48550/arXiv.2606.12936)[[Code]](https://github.com/hbhuiyou/Pipette)
 - Xiwen Cao#, Dake Shi#, Zhaohui Du, Jiaxuan Zhou, Zhe Wang\*, **<u>Zhe Liu*</u>**, Qi Wang\*. An interpretable and interactive clinical AI agent for personalized anti-infective decision support in carbapenem-resistant Gram-negative bacterial infection.  
 _In preparation_.[[Paper]](https://www.medrxiv.org/content/10.64898/2026.05.18.26353005v1)[[Code]](https://github.com/cccccxw0909/Dr.BUG)
 - Hui Jin, **<u>Zhe Liu*</u>**, Zhuopeng Jia\*. EnzyDiff: Modeling mutation-induced enzyme activity distributions using diffusion model.  
