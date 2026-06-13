@@ -198,7 +198,7 @@ _10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2
 <div>
   <div style="display: flex; justify-content: center;">
     <div id="clustrmaps-widget" style="max-width: 320px; width: 100%;">
-     <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=-Ga_GRxZF5kG06EtHItEuk_dWTxBYxYP04a4nAkcJk0&cmo=9fff53&cmn=af3acc'></script>
+    <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=-Ga_GRxZF5kG06EtHItEuk_dWTxBYxYP04a4nAkcJk0&cmo=ff5387&cmn=3a8fcc'></script>
     </div>
   </div>
 </div>
