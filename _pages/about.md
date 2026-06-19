@@ -88,10 +88,10 @@ _In preparation_.[[Code]](https://github.com/Liuzhe30/CHRP)
 ## 2026
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. A Dialogue-Guided Workflow for Automated RNA Region–Ligand Modeling.  
 _Frontiers of Computer Science_. (2026 IF=7.3)[[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-60013-1)[[Code]](https://github.com/kai3171/LargeR)
-- **<u>Zhe Liu</u>**, Weidi Wang\*. DyTAC: A Digital Twin Framework for Modeling Chromatin Accessibility and 3D Genome Dynamics during T-cell Activation.  
-_2026 14th International Conference on Bioinformatics and Computational Biology, accepted_.[[Code]](https://github.com/Liuzhe30/DyTAC)
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
 _Briefing in Bioinformatics, accepted_. (2026 IF=7.3)[[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.18.654712v1)[[Code]](https://github.com/RoarBoil/Memo-Patho)
+- **<u>Zhe Liu</u>**, Weidi Wang\*. DyTAC: A Digital Twin Framework for Modeling Chromatin Accessibility and 3D Genome Dynamics during T-cell Activation.  
+_2026 14th International Conference on Bioinformatics and Computational Biology, accepted_.[[Code]](https://github.com/Liuzhe30/DyTAC)
 
 ## 2025
 - **<u>Zhe Liu</u>**, Yihang Bao, An Gu, Weichen Song, Guan Ning Lin\*. Predicting the regulatory impacts of non-coding variants on gene expression through epigenomic integration across tissues and single-cell landscapes.  
