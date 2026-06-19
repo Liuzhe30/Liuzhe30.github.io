@@ -67,9 +67,9 @@ Academic Advisor: [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm)
 \* Corresponding author. # Contributed equally.  
 ## Preprints and Ongoing Papers
 - Zhejun Kuang#, Yunkai Li#, **<u>Zhe Liu#</u>**, Jian Zhao\*, Lijuan Shi, Akira-Kawai, Han Wang\*. Trends Assessment of the Genetic Mutation Induced Protein-Protein Interaction Variation via Protein Large Language Driven Method.  
-_In revision, Nature Communications (2025 IF=15.7)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.23.655070v1)[[Code]](https://github.com/NENUBioCompute/TAPPI)
+_In revision, Nature Communications (2026 IF=18.1)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.23.655070v1)[[Code]](https://github.com/NENUBioCompute/TAPPI)
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. An Adaptive LLM-Driven AI Agent for Modeling RNA Region-Ligand Interaction via Dialogue-Guided Generation of Machine Learning Workflows.  
-_In revision, Health Information Science and Systems (2025 IF=3.4)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
+_In revision, Health Information Science and Systems (2026 IF=4.4)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
 - Zhaohui Du, Zhe Wang\*, Hongmei Fei, Xiwen Cao, Ting Xiao, Qi Wang, Huanbo Jin, Jiaming Gu, Quan Lu, **<u>Zhe Liu*</u>**. BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation.  
 _In preparation_.[[Paper]](https://arxiv.org/abs/2605.07306)[[Code]](https://github.com/no-guess/BioProVLA-Agent)
 - **<u>Zhe Liu</u>**, Renchong Tian, Zhe Wang\*. Efficient dataset-adaptive foundation modeling for single-cell analysis with scLinformer.  
@@ -87,11 +87,11 @@ _In preparation_.[[Code]](https://github.com/Liuzhe30/CHRP)
 
 ## 2026
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. A Dialogue-Guided Workflow for Automated RNA Region–Ligand Modeling.  
-_Frontiers of Computer Science_. (2026 IF=4.6)[[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-60013-1)[[Code]](https://github.com/kai3171/LargeR)
+_Frontiers of Computer Science_. (2026 IF=7.3)[[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-60013-1)[[Code]](https://github.com/kai3171/LargeR)
 - **<u>Zhe Liu</u>**, Weidi Wang\*. DyTAC: A Digital Twin Framework for Modeling Chromatin Accessibility and 3D Genome Dynamics during T-cell Activation.  
 _2026 14th International Conference on Bioinformatics and Computational Biology, accepted_.[[Code]](https://github.com/Liuzhe30/DyTAC)
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
-_Briefing in Bioinformatics, accepted_. (2026 IF=7.7)[[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.18.654712v1)[[Code]](https://github.com/RoarBoil/Memo-Patho)
+_Briefing in Bioinformatics, accepted_. (2026 IF=7.3)[[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.18.654712v1)[[Code]](https://github.com/RoarBoil/Memo-Patho)
 
 ## 2025
 - **<u>Zhe Liu</u>**, Yihang Bao, An Gu, Weichen Song, Guan Ning Lin\*. Predicting the regulatory impacts of non-coding variants on gene expression through epigenomic integration across tissues and single-cell landscapes.  
