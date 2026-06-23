@@ -70,6 +70,10 @@ Academic Advisor: [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm)
 _In revision, Nature Communications (2026 IF=18.1)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.23.655070v1)[[Code]](https://github.com/NENUBioCompute/TAPPI)
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. An Adaptive LLM-Driven AI Agent for Modeling RNA Region-Ligand Interaction via Dialogue-Guided Generation of Machine Learning Workflows.  
 _In revision, Health Information Science and Systems (2026 IF=4.4)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
+- Huijin#, Yihang Bao#, Wenhao Li#, Chengyi Yang, Weidi Wang, Wenxiang Cai, **<u>Zhe Liu*</u>**, Guan Ning Lin\*. Systematic Benchmarking of DNA Sequence Encoding Strategies for Predicting Regulatory Effects of Non-Coding SNPs.  
+_In revision, International Journal of Molecular Sciences (2026 IF=5.4)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v2)[[Code]](https://github.com/Liuzhe30/DNAMutBenchMark)
+- Hui Jin, **<u>Zhe Liu*</u>**, Zhuopeng Jia\*. EnzyDiff: Modeling mutation-induced enzyme activity distributions using diffusion model.  
+_In revision, Science Progress (2026 IF=2.6)_.[[Code]](https://github.com/Liuzhe30/EnzyDiff)
 - Zhaohui Du, Zhe Wang\*, Hongmei Fei, Xiwen Cao, Ting Xiao, Qi Wang, Huanbo Jin, Jiaming Gu, Quan Lu, **<u>Zhe Liu*</u>**. BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation.  
 _In preparation_.[[Paper]](https://arxiv.org/abs/2605.07306)[[Code]](https://github.com/no-guess/BioProVLA-Agent)
 - **<u>Zhe Liu</u>**, Renchong Tian, Zhe Wang\*. Efficient dataset-adaptive foundation modeling for single-cell analysis with scLinformer.  
@@ -78,8 +82,6 @@ _In preparation_.[[Code]](https://github.com/TRCDHH/scLinformer)
 _In preparation_.[[Paper]](https://doi.org/10.48550/arXiv.2606.12936)[[Code]](https://github.com/hbhuiyou/Pipette)
 - Xiwen Cao#, Dake Shi#, Zhaohui Du, Jiaxuan Zhou, Zhe Wang\*, **<u>Zhe Liu*</u>**, Qi Wang\*. An interpretable and interactive clinical AI agent for personalized anti-infective decision support in carbapenem-resistant Gram-negative bacterial infection.  
 _In preparation_.[[Paper]](https://www.medrxiv.org/content/10.64898/2026.05.18.26353005v1)[[Code]](https://github.com/cccccxw0909/Dr.BUG)
-- Hui Jin, **<u>Zhe Liu*</u>**, Zhuopeng Jia\*. EnzyDiff: Modeling mutation-induced enzyme activity distributions using diffusion model.  
-_In preparation_.[[Code]](https://github.com/Liuzhe30/EnzyDiff)
 - Hui Jin#, Yihang Bao#, Jingtong Zhao, Weidi Wang, **<u>Zhe Liu*</u>**, Guan Ning Lin\*. LuminRX: An Efficient Multi-Task Deep Learning Framework Using Pathogenicity Signals to Guide and Explain Protein Mutation-Driven Drug Resistance.  
 _In preparation_.[[Code]](https://github.com/RoarBoil/LuminRX)
 - Weidi Wang#, **<u>Zhe Liu#</u>**, Zhirou Wen#, Chengyi Yang, Yihang Bao, Shunying Yu\*, Guan Ning Lin\*.Dissecting Schizophrenia Susceptibility and Resilience Through Immune-Related Transcriptomic and Epigenomic Signatures in Clinical High-Risk for Psychosis.  
