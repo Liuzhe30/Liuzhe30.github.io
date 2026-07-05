@@ -74,7 +74,7 @@ _In revision, Health Information Science and Systems (2026 IF=4.4)_. [[Paper]](h
 _In revision, International Journal of Molecular Sciences (2026 IF=5.4)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v2)[[Code]](https://github.com/Liuzhe30/DNAMutBenchMark)
 - Hui Jin, **<u>Zhe Liu*</u>**, Zhuopeng Jia\*. EnzyDiff: Modeling mutation-induced enzyme activity distributions using diffusion model.  
 _In revision, Science Progress (2026 IF=2.6)_.[[Code]](https://github.com/Liuzhe30/EnzyDiff)
-- Zhaohui Du, Zhe Wang\*, Hongmei Fei, Xiwen Cao, Ting Xiao, Qi Wang, Huanbo Jin, Jiaming Gu, Quan Lu, **<u>Zhe Liu*</u>**. BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation.  
+- Zhaohui Du, Zhe Wang\*, Dongzhan Zhou, Minting Pan, Hongmei Fei, Xiwen Cao, Ting Xiao, Qi Wang, Huanbo Jin, Jiaming Gu, Quan Lu, **<u>Zhe Liu*</u>**. BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation.  
 _In preparation_.[[Paper]](https://arxiv.org/abs/2605.07306)[[Code]](https://github.com/no-guess/BioProVLA-Agent)
 - **<u>Zhe Liu</u>**, Renchong Tian, Zhe Wang\*. Efficient dataset-adaptive foundation modeling for single-cell analysis with scLinformer.  
 _In preparation_.[[Code]](https://github.com/TRCDHH/scLinformer)
@@ -91,7 +91,7 @@ _In preparation_.[[Code]](https://github.com/Liuzhe30/CHRP)
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. A Dialogue-Guided Workflow for Automated RNA Region–Ligand Modeling.  
 _Frontiers of Computer Science_. (2026 IF=7.3)[[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-60013-1)[[Code]](https://github.com/kai3171/LargeR)
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
-_Briefing in Bioinformatics, accepted_. (2026 IF=7.3)[[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.18.654712v1)[[Code]](https://github.com/RoarBoil/Memo-Patho)
+_Briefing in Bioinformatics_. (2026 IF=7.3)[[Paper]](https://academic.oup.com/bib/article/27/4/bbag352/8724531)[[Code]](https://github.com/RoarBoil/Memo-Patho)
 - **<u>Zhe Liu</u>**, Weidi Wang\*. DyTAC: A Digital Twin Framework for Modeling Chromatin Accessibility and 3D Genome Dynamics during T-cell Activation.  
 _2026 14th International Conference on Bioinformatics and Computational Biology, accepted_.[[Code]](https://github.com/Liuzhe30/DyTAC)
 
