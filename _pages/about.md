@@ -90,7 +90,7 @@ _In preparation_.[[Paper]](https://doi.org/10.48550/arXiv.2606.12936)[[Code]](ht
 ## 2026
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. A Dialogue-Guided Workflow for Automated RNA Region–Ligand Modeling.  
 _Frontiers of Computer Science_. (2026 IF=7.3)[[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-60013-1)[[Code]](https://github.com/kai3171/LargeR)
-- Hui Jin#, Yihang Bao#, Wenhao Li#, Chengyi Yang, Weidi Wang, Wenxiang Cai, **<u>Zhe Liu*</u>**, Guan Ning Lin\*. Systematic Benchmarking of DNA Sequence Encoding Strategies for Predicting Regulatory Effects of Non-Coding SNPs.  
+- Hui Jin, Yihang Bao, Wenhao Li, Chengyi Yang, Weidi Wang, Wenxiang Cai, **<u>Zhe Liu*</u>**, Guan Ning Lin\*. Systematic Benchmarking of DNA Sequence Encoding Strategies for Predicting Regulatory Effects of Non-Coding SNPs.  
 _International Journal of Molecular Sciences, accepted_. (2026 IF=5.4)[[Paper]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v2)[[Code]](https://github.com/Liuzhe30/DNAMutBenchMark)
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
 _Briefing in Bioinformatics_. (2026 IF=7.3)[[Paper]](https://academic.oup.com/bib/article/27/4/bbag352/8724531)[[Code]](https://github.com/RoarBoil/Memo-Patho)
