@@ -67,13 +67,11 @@ Academic Advisor: [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm)
 \* Corresponding author. # Contributed equally.  
 ## Preprints and Ongoing Papers
 - Zhejun Kuang#, Yunkai Li#, **<u>Zhe Liu#</u>**, Jian Zhao\*, Lijuan Shi, Akira-Kawai, Han Wang\*. Trends Assessment of the Genetic Mutation Induced Protein-Protein Interaction Variation via Protein Large Language Driven Method.  
-_In revision, Nature Communications (2026 IF=18.1)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.23.655070v1)[[Code]](https://github.com/NENUBioCompute/TAPPI)
+_In revision, Nature Communications_. (2026 IF=18.1)[[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.23.655070v1)[[Code]](https://github.com/NENUBioCompute/TAPPI)
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. An Adaptive LLM-Driven AI Agent for Modeling RNA Region-Ligand Interaction via Dialogue-Guided Generation of Machine Learning Workflows.  
-_In revision, Health Information Science and Systems (2026 IF=4.4)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
-- Hui Jin#, Yihang Bao#, Wenhao Li#, Chengyi Yang, Weidi Wang, Wenxiang Cai, **<u>Zhe Liu*</u>**, Guan Ning Lin\*. Systematic Benchmarking of DNA Sequence Encoding Strategies for Predicting Regulatory Effects of Non-Coding SNPs.  
-_In revision, International Journal of Molecular Sciences (2026 IF=5.4)_. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v2)[[Code]](https://github.com/Liuzhe30/DNAMutBenchMark)
+_In revision, Health Information Science and Systems_. (2026 IF=4.4)[[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
 - Hui Jin, **<u>Zhe Liu*</u>**, Zhuopeng Jia\*. EnzyDiff: Modeling mutation-induced enzyme activity distributions using diffusion model.  
-_In revision, Science Progress (2026 IF=2.6)_.[[Code]](https://github.com/Liuzhe30/EnzyDiff)
+_In revision, Science Progress_. (2026 IF=2.6)[[Code]](https://github.com/Liuzhe30/EnzyDiff)
 - Zhaohui Du, Zhe Wang\*, Dongzhan Zhou, Minting Pan, Hongmei Fei, Xiwen Cao, Ting Xiao, Qi Wang, Huanbo Jin, Jiaming Gu, Quan Lu, **<u>Zhe Liu*</u>**. BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation.  
 _In preparation_.[[Paper]](https://arxiv.org/abs/2605.07306)[[Code]](https://github.com/no-guess/BioProVLA-Agent)
 - Xiwen Cao#, Dake Shi#, Zhaohui Du, Jiaxuan Zhou, Zhe Wang\*, **<u>Zhe Liu*</u>**, Qi Wang\*. An interpretable and interactive clinical AI agent for personalized anti-infective decision support in carbapenem-resistant Gram-negative bacterial infection.  
@@ -92,6 +90,8 @@ _In preparation_.[[Paper]](https://doi.org/10.48550/arXiv.2606.12936)[[Code]](ht
 ## 2026
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. A Dialogue-Guided Workflow for Automated RNA Region–Ligand Modeling.  
 _Frontiers of Computer Science_. (2026 IF=7.3)[[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-60013-1)[[Code]](https://github.com/kai3171/LargeR)
+- Hui Jin#, Yihang Bao#, Wenhao Li#, Chengyi Yang, Weidi Wang, Wenxiang Cai, **<u>Zhe Liu*</u>**, Guan Ning Lin\*. Systematic Benchmarking of DNA Sequence Encoding Strategies for Predicting Regulatory Effects of Non-Coding SNPs.  
+_International Journal of Molecular Sciences, accepted_. (2026 IF=5.4)[[Paper]](https://www.biorxiv.org/content/10.1101/2025.01.01.631025v2)[[Code]](https://github.com/Liuzhe30/DNAMutBenchMark)
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
 _Briefing in Bioinformatics_. (2026 IF=7.3)[[Paper]](https://academic.oup.com/bib/article/27/4/bbag352/8724531)[[Code]](https://github.com/RoarBoil/Memo-Patho)
 - **<u>Zhe Liu</u>**, Weidi Wang\*. DyTAC: A Digital Twin Framework for Modeling Chromatin Accessibility and 3D Genome Dynamics during T-cell Activation.  
