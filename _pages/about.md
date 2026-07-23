@@ -77,7 +77,7 @@ _In preparation_.[[Paper]](https://arxiv.org/abs/2605.07306)[[Code]](https://git
 - Xiwen Cao#, Dake Shi#, Zhaohui Du, Jiaxuan Zhou, Zhe Wang\*, **<u>Zhe Liu*</u>**, Qi Wang\*. An interpretable and interactive clinical AI agent for personalized anti-infective decision support in carbapenem-resistant Gram-negative bacterial infection.  
 _In preparation_.[[Paper]](https://www.medrxiv.org/content/10.64898/2026.05.18.26353005v1)[[Code]](https://github.com/cccccxw0909/Dr.BUG)
 - Qingwu Zeng, Wenxiang Cai, Renchong Tian, Qi Wang, Dongzhan Zhou, Minting Pan, Hai Yang, **<u>Zhe Liu*</u>**, Guan Ning Lin\*, Zhe Wang\*. BaiZe: A Multi-View Dynamic Framework for Simulating and Interpreting Cellular Responses Across Perturbation Contexts.  
-_In preparation_.[[Code]](https://github.com/simonzqw/BaiZe)
+_In preparation_.[[Paper]](https://www.biorxiv.org/content/10.64898/2026.07.15.738608v1)[[Code]](https://github.com/simonzqw/BaiZe)
 - Hui Jin#, Yihang Bao#, Jingtong Zhao, Weidi Wang, **<u>Zhe Liu*</u>**, Guan Ning Lin\*. LuminRX: An Efficient Multi-Task Deep Learning Framework Using Pathogenicity Signals to Guide and Explain Protein Mutation-Driven Drug Resistance.  
 _In preparation_.[[Code]](https://github.com/RoarBoil/LuminRX)
 - Weidi Wang#, **<u>Zhe Liu#</u>**, Zhirou Wen#, Chengyi Yang, Yihang Bao, Shunying Yu\*, Guan Ning Lin\*.Dissecting Schizophrenia Susceptibility and Resilience Through Immune-Related Transcriptomic and Epigenomic Signatures in Clinical High-Risk for Psychosis.  
