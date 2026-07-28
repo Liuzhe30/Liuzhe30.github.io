@@ -75,7 +75,7 @@ _In revision, Science Progress_. (2026 IF=2.6)[[Code]](https://github.com/Liuzhe
 - Zhaohui Du, Zhe Wang\*, Dongzhan Zhou, Minting Pan, Hongmei Fei, Xiwen Cao, Ting Xiao, Qi Wang, Huanbo Jin, Jiaming Gu, Quan Lu, **<u>Zhe Liu*</u>**. BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation.  
 _In preparation_.[[Paper]](https://arxiv.org/abs/2605.07306)[[Code]](https://github.com/no-guess/BioProVLA-Agent)
 - Xiwen Cao#, Dake Shi#, Zhaohui Du, Jiaxuan Zhou, Zhe Wang\*, **<u>Zhe Liu*</u>**, Qi Wang\*. An interpretable and interactive clinical AI agent for personalized anti-infective decision support in carbapenem-resistant Gram-negative bacterial infection.  
-_In preparation_.[[Paper]](https://www.medrxiv.org/content/10.64898/2026.05.18.26353005v1)[[Code]](https://github.com/cccccxw0909/Dr.BUG)
+_In preparation_.[[Paper]](https://www.medrxiv.org/content/10.64898/2026.05.18.26353005v1)[[Code]](https://github.com/cccccxw0909/Dr.BUG)[[Demo]](https://doi.org/10.6084/m9.figshare.32221362)
 - Qingwu Zeng, Wenxiang Cai, Renchong Tian, Qi Wang, Dongzhan Zhou, Minting Pan, Hai Yang, **<u>Zhe Liu*</u>**, Guan Ning Lin\*, Zhe Wang\*. BaiZe: A Multi-View Dynamic Framework for Simulating and Interpreting Cellular Responses Across Perturbation Contexts.  
 _In preparation_.[[Paper]](https://www.biorxiv.org/content/10.64898/2026.07.15.738608v1)[[Code]](https://github.com/simonzqw/BaiZe)
 - Hui Jin#, Yihang Bao#, Jingtong Zhao, Weidi Wang, **<u>Zhe Liu*</u>**, Guan Ning Lin\*. LuminRX: An Efficient Multi-Task Deep Learning Framework Using Pathogenicity Signals to Guide and Explain Protein Mutation-Driven Drug Resistance.  
