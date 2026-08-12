@@ -99,7 +99,7 @@ _International Journal of Molecular Sciences_. (2026 IF=5.4)[[Paper]](https://ww
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
 _Briefing in Bioinformatics_. (2026 IF=7.3)[[Paper]](https://academic.oup.com/bib/article/27/4/bbag352/8724531)[[Code]](https://github.com/RoarBoil/Memo-Patho)
 - **<u>Zhe Liu</u>**, Weidi Wang\*. DyTAC: A Digital Twin Framework for Modeling Chromatin Accessibility and 3D Genome Dynamics during T-cell Activation.  
-_2026 14th International Conference on Bioinformatics and Computational Biology, accepted_.[[Code]](https://github.com/Liuzhe30/DyTAC)
+_2026 14th International Conference on Bioinformatics and Computational Biology_.[[Paper]](https://ieeexplore.ieee.org/document/11621164)[[Code]](https://github.com/Liuzhe30/DyTAC)
 
 ## 2025
 - **<u>Zhe Liu</u>**, Yihang Bao, An Gu, Weichen Song, Guan Ning Lin\*. Predicting the regulatory impacts of non-coding variants on gene expression through epigenomic integration across tissues and single-cell landscapes.  
@@ -158,6 +158,7 @@ _10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2
 - 2017 China National Scholarship (for Undergraduates)
 
 # 😄 Academic Activities
+- **2026.08** CBC 2026 - 11th CCF Bioinformatics Conference  
 - **2026.03** ICBCB 2026 – 14th International Conference on Bioinformatics and Computational Biology
   - Regular Paper, **Oral Presentation** 
 - **2025.12** BIBM 2025 - IEEE International Conference on Bioinformatics and Biomedicine
