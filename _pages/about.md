@@ -21,8 +21,8 @@ Hi! I’m **Zhe Liu (刘喆)**.
 I’m currently a Lecturer in the Department of Computer Science and Engineering, East China University of Science and Technology.    
 I received my Ph.D. in Biomedical Engineering at Shanghai Jiao Tong University (SJTU), supervised by [Prof. Guan Ning Lin](https://bme.sjtu.edu.cn/En/FacultyDetail/34), with additional academic guidance from [Prof. Dong Xu](https://scholar.google.com/citations?user=xJeTtCoAAAAJ&hl=en) (University of South Florida). Prior to that, I received my B.Sc. in Computer Science from Northeast Normal University (NENU) in 2020, advised by [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm).  
   
-My research focuses on **AI for Science** and **embodied AI**, aiming to bridge computation and biomedicine through the development of **interpretable,   
-intelligent, and biologically meaningful models** and **embodied AI agents for biomedical discovery and automated experimentation**.   
+My research focuses on **AI for Science** and **embodied AI**,  
+aiming to bridge computation and biomedicine through the development of **interpretable, intelligent, and biologically meaningful models** and **embodied AI agents for biomedical discovery and automated experimentation**.   
 Current interests include:  
   
 - **Variant effect prediction**  
