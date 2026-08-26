@@ -157,6 +157,10 @@ _Frontiers in Genetics_. (2021 IF=4.599)[[Paper]](https://www.frontiersin.org/jo
 - Weihao Pan#, **<u>Zhe Liu#</u>**, Guan Ning Lin\*. ASW-Net: A Deep Learning-based Tool for Cell Nucleus Segmentation of Fluorescence Microscopy.  
 _10th International Conference on Bioinformatics and Biomedical Science (ICBBS 2021)_. [[Paper]](https://dl.acm.org/doi/10.1145/3498731.3498734) [[Code]](https://github.com/Liuzhe30/ASW-Net)
 
+# 💰 Funding
+- Natural Science Foundation of China (No. 62602195): Modeling Variant Effect Transmission Across DNA, RNA, and Protein Layers with Personalized Context Awareness, 2027–2029, Principal Investigator  
+国家自然科学基金青年项目（C类，编号62602195），个体化上下文感知的DNA-RNA-蛋白层级变异效应传递建模方法研究，2027-2029，主持
+
 # 🎖 Honors and Awards
 - 2025 Outstanding Graduate of Shanghai Jiao Tong University
 - 2024 China National Scholarship (for Doctoral Students)
