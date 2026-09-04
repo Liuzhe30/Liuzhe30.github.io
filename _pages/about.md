@@ -76,8 +76,6 @@ _In revision, Nature Communications_. (2026 IF=18.1)[[Paper]](https://www.biorxi
 _In revision, npj Digital Medicine_. (2026 IF=18.0)[[Paper]](https://www.medrxiv.org/content/10.64898/2026.05.18.26353005v1)[[Code]](https://github.com/cccccxw0909/Dr.BUG)[[Demo]](https://doi.org/10.6084/m9.figshare.32221362)
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. An Adaptive LLM-Driven AI Agent for Modeling RNA Region-Ligand Interaction via Dialogue-Guided Generation of Machine Learning Workflows.  
 _In revision, Health Information Science and Systems_. (2026 IF=4.4)[[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
-- Hui Jin, **<u>Zhe Liu*</u>**, Zhuopeng Jia\*. EnzyDiff: Modeling mutation-induced enzyme activity distributions using diffusion model.  
-_In revision, Science Progress_. (2026 IF=2.6)[[Code]](https://github.com/Liuzhe30/EnzyDiff)
 - Zhaohui Du, Zhe Wang\*, Dongzhan Zhou, Minting Pan, Hongmei Fei, Xiwen Cao, Ting Xiao, Qi Wang, Huanbo Jin, Jiaming Gu, Quan Lu, **<u>Zhe Liu*</u>**. BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation.  
 _In preparation_.[[Paper]](https://arxiv.org/abs/2605.07306)[[Code]](https://github.com/no-guess/BioProVLA-Agent)
 - Zhaohui Du#, Dongzhan Zhou#, Minting Pan#, Jiaming Gu, Zhe Wang\*, Han Wang\*, **<u>Zhe Liu*</u>**. Learning from deployment in embodied materials chemistry automation.    
@@ -106,6 +104,8 @@ _Frontiers of Computer Science_. (2026 IF=7.3)[[Paper]](https://journal.hep.com.
 _International Journal of Molecular Sciences_. (2026 IF=5.4)[[Paper]](https://www.mdpi.com/1422-0067/27/15/6657)[[Code]](https://github.com/Liuzhe30/DNAMutBenchMark)
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
 _Briefing in Bioinformatics_. (2026 IF=7.3)[[Paper]](https://academic.oup.com/bib/article/27/4/bbag352/8724531)[[Code]](https://github.com/RoarBoil/Memo-Patho)
+- Hui Jin, **<u>Zhe Liu*</u>**, Zhuopeng Jia\*. EnzyDiff: Modeling mutation-induced enzyme activity distributions using diffusion model.  
+_Science Progress, accepted_. (2026 IF=2.6)[[Code]](https://github.com/Liuzhe30/EnzyDiff)
 - **<u>Zhe Liu</u>**, Weidi Wang\*. DyTAC: A Digital Twin Framework for Modeling Chromatin Accessibility and 3D Genome Dynamics during T-cell Activation.  
 _2026 14th International Conference on Bioinformatics and Computational Biology_.[[Paper]](https://ieeexplore.ieee.org/document/11621164)[[Code]](https://github.com/Liuzhe30/DyTAC)
 
