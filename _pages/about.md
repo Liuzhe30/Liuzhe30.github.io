@@ -50,7 +50,7 @@ Current interests include:
 - 2026.06 - Present  
 Visiting Scholar  
 AI for Science Center, Shanghai AI Laboratory, Shanghai, China  
-Host: [Dongzhan Zhou](https://scholar.google.com/citations?user=Ox6SxpoAAAAJ)
+Host: [Dongzhan Zhou](https://scholar.google.com/citations?user=Ox6SxpoAAAAJ), [Minting Pan](https://scholar.google.com/citations?user=I3MlrnQAAAAJ&hl=zh-CN)
 - 2025.07 - Present  
 Lecturer  
 Department of Computer Science and Engineering, East China University of Science and Technology (ECUST), Shanghai, China
