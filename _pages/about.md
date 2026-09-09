@@ -96,7 +96,7 @@ _In preparation_.[[Paper]](https://arxiv.org/html/2608.01690v1)[[Code]](https://
 _In preparation_.[[Code]](https://github.com/NENUBioCompute/MethylationEvaluation)[[Demo]](https://dnamclock.com/)
 
 ## 2026
-- Zhejun Kuang#, Yunkai Li#, **<u>Zhe Liu#</u>**, Jian Zhao\*, Lijuan Shi, Akira-Kawai, Han Wang\*. Trends Assessment of the Genetic Mutation Induced Protein-Protein Interaction Variation via Protein Large Language Driven Method.
+- Zhejun Kuang#, Yunkai Li#, **<u>Zhe Liu#</u>**, Jian Zhao\*, Lijuan Shi, Akira-Kawai, Han Wang\*. Trends Assessment of the Genetic Mutation Induced Protein-Protein Interaction Variation via Protein Large Language Driven Method.  
 _Nature Communications, accepted in principle_. (2026 IF=18.1)[[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.23.655070v1)[[Code]](https://github.com/NENUBioCompute/TAPPI)
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. A Dialogue-Guided Workflow for Automated RNA Region–Ligand Modeling.  
 _Frontiers of Computer Science_. (2026 IF=7.3)[[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-60013-1)[[Code]](https://github.com/kai3171/LargeR)
