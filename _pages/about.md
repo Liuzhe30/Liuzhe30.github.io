@@ -105,7 +105,7 @@ _International Journal of Molecular Sciences_. (2026 IF=5.4)[[Paper]](https://ww
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
 _Briefing in Bioinformatics_. (2026 IF=7.3)[[Paper]](https://academic.oup.com/bib/article/27/4/bbag352/8724531)[[Code]](https://github.com/RoarBoil/Memo-Patho)
 - Hui Jin, **<u>Zhe Liu*</u>**, Zhuopeng Jia\*. EnzyDiff: Modeling mutation-induced enzyme activity distributions using diffusion model.  
-_Science Progress, accepted_. (2026 IF=2.6)[[Code]](https://github.com/Liuzhe30/EnzyDiff)
+_Science Progress_. (2026 IF=2.6)[[Paper]](https://doi.org/10.1177/00368504261489697)[[Code]](https://github.com/Liuzhe30/EnzyDiff)
 - **<u>Zhe Liu</u>**, Weidi Wang\*. DyTAC: A Digital Twin Framework for Modeling Chromatin Accessibility and 3D Genome Dynamics during T-cell Activation.  
 _2026 14th International Conference on Bioinformatics and Computational Biology_.[[Paper]](https://ieeexplore.ieee.org/document/11621164)[[Code]](https://github.com/Liuzhe30/DyTAC)
 
