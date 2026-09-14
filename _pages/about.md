@@ -72,8 +72,6 @@ Academic Advisor: [Prof. Han Wang](https://iso.nenu.edu.cn/info/1094/1842.htm)
 ## Preprints and Ongoing Papers
 - Xiwen Cao#, Dake Shi#, Zhaohui Du, Jiaxuan Zhou, Zhe Wang\*, **<u>Zhe Liu*</u>**, Qi Wang\*. An interpretable and interactive clinical AI agent for personalized anti-infective decision support in carbapenem-resistant Gram-negative bacterial infection.  
 _In revision, npj Digital Medicine_. (2026 IF=18.0)[[Paper]](https://www.medrxiv.org/content/10.64898/2026.05.18.26353005v1)[[Code]](https://github.com/cccccxw0909/Dr.BUG)[[Demo]](https://doi.org/10.6084/m9.figshare.32221362)
-- Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. An Adaptive LLM-Driven AI Agent for Modeling RNA Region-Ligand Interaction via Dialogue-Guided Generation of Machine Learning Workflows.  
-_In revision, Health Information Science and Systems_. (2026 IF=4.4)[[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
 - Zhaohui Du, Zhe Wang\*, Dongzhan Zhou, Minting Pan, Hongmei Fei, Xiwen Cao, Ting Xiao, Qi Wang, Huanbo Jin, Jiaming Gu, Quan Lu, **<u>Zhe Liu*</u>**. BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation.  
 _In preparation_.[[Paper]](https://arxiv.org/abs/2605.07306)[[Code]](https://github.com/no-guess/BioProVLA-Agent)
 - Zhaohui Du#, Dongzhan Zhou#, Minting Pan#, Jiaming Gu, Zhe Wang\*, Han Wang\*, **<u>Zhe Liu*</u>**. Learning from deployment in embodied materials chemistry automation.    
@@ -100,6 +98,8 @@ _In preparation_.[[Code]](https://github.com/NENUBioCompute/MethylationEvaluatio
 _Nature Communications, accepted in principle_. (2026 IF=18.1)[[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.23.655070v1)[[Code]](https://github.com/NENUBioCompute/TAPPI)
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. A Dialogue-Guided Workflow for Automated RNA Region–Ligand Modeling.  
 _Frontiers of Computer Science_. (2026 IF=7.3)[[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-60013-1)[[Code]](https://github.com/kai3171/LargeR)
+- Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. An Adaptive LLM-Driven AI Agent for Modeling RNA Region-Ligand Interaction via Dialogue-Guided Generation of Machine Learning Workflows.  
+_Health Information Science and Systems, accepted_. (2026 IF=4.4)[[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
 - Hui Jin, Yihang Bao, Wenhao Li, Chengyi Yang, Weidi Wang, Wenxiang Cai, **<u>Zhe Liu*</u>**, Guan Ning Lin\*. Systematic Benchmarking of DNA Sequence Encoding Strategies for Predicting Regulatory Effects of Non-Coding SNPs.  
 _International Journal of Molecular Sciences_. (2026 IF=5.4)[[Paper]](https://www.mdpi.com/1422-0067/27/15/6657)[[Code]](https://github.com/Liuzhe30/DNAMutBenchMark)
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
