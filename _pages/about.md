@@ -98,7 +98,7 @@ _In preparation_.[[Code]](https://github.com/NENUBioCompute/MethylationEvaluatio
 _Nature Communications, accepted in principle_. (2026 IF=18.1)[[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.23.655070v1)[[Code]](https://github.com/NENUBioCompute/TAPPI)
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. A Dialogue-Guided Workflow for Automated RNA Region–Ligand Modeling.  
 _Frontiers of Computer Science_. (2026 IF=7.3)[[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-60013-1)[[Code]](https://github.com/kai3171/LargeR)
-- Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. An Adaptive LLM-Driven AI Agent for Modeling RNA Region-Ligand Interaction via Dialogue-Guided Generation of Machine Learning Workflows.  
+- Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. RLAgent: retrieval-augmented LLM agents for code-free RNA region-ligand interaction modeling.  
 _Health Information Science and Systems, accepted_. (2026 IF=4.4)[[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
 - Hui Jin, Yihang Bao, Wenhao Li, Chengyi Yang, Weidi Wang, Wenxiang Cai, **<u>Zhe Liu*</u>**, Guan Ning Lin\*. Systematic Benchmarking of DNA Sequence Encoding Strategies for Predicting Regulatory Effects of Non-Coding SNPs.  
 _International Journal of Molecular Sciences_. (2026 IF=5.4)[[Paper]](https://www.mdpi.com/1422-0067/27/15/6657)[[Code]](https://github.com/Liuzhe30/DNAMutBenchMark)
