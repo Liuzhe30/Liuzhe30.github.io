@@ -99,7 +99,7 @@ _Nature Communications, accepted in principle_. (2026 IF=18.1)[[Paper]](https://
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. A Dialogue-Guided Workflow for Automated RNA Region–Ligand Modeling.  
 _Frontiers of Computer Science_. (2026 IF=7.3)[[Paper]](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-60013-1)[[Code]](https://github.com/kai3171/LargeR)
 - Zhejun Kuang#, Yunkai Li#, Yihang Bao#, Shengyang Zhou, Zeqi Dong, Weidi Wang, Guan Ning Lin\*, Han Wang\*, **<u>Zhe Liu*</u>**. RLAgent: retrieval-augmented LLM agents for code-free RNA region-ligand interaction modeling.  
-_Health Information Science and Systems, accepted_. (2026 IF=4.4)[[Paper]](https://www.biorxiv.org/content/10.1101/2025.09.11.675747v2)[[Code]](https://github.com/Liuzhe30/RLAgent)
+_Health Information Science and Systems_. (2026 IF=4.4)[[Paper]](https://link.springer.com/article/10.1007/s13755-026-00483-6)[[Code]](https://github.com/Liuzhe30/RLAgent)
 - Hui Jin, Yihang Bao, Wenhao Li, Chengyi Yang, Weidi Wang, Wenxiang Cai, **<u>Zhe Liu*</u>**, Guan Ning Lin\*. Systematic Benchmarking of DNA Sequence Encoding Strategies for Predicting Regulatory Effects of Non-Coding SNPs.  
 _International Journal of Molecular Sciences_. (2026 IF=5.4)[[Paper]](https://www.mdpi.com/1422-0067/27/15/6657)[[Code]](https://github.com/Liuzhe30/DNAMutBenchMark)
 - Yihang Bao#, **<u>Zhe Liu#</u>**, Fangyi Zhao#, Wenhao Li, Hui Jin, Guan Ning Lin\*. Bridging Local-Global Transmembrane Protein Contexts with Contrastive Pretraining for Alignment-Free Pathogenicity Prediction.  
